@@ -50,7 +50,7 @@
 ### PHP Team
 
 #### Maintainers
-[@dmikusa-pivotal][@dmikusa-pivotal], [@arjun024][@arjun024], [@thitch97][@thitch97]
+[@dmikusa-pivotal][@dmikusa-pivotal], [@arjun024][@arjun024], [@thitch97][@thitch97], [@dwillist][dwillist]
 
 
 ### Tooling Team
@@ -70,3 +70,4 @@
 [@kvedurmu]: https://github.com/kvedurmu
 [@sophiewigmore]: https://github.com/sophiewigmore
 [@thitch97]: https://github.com/thitch97
+[@dwillist]: https://github.com/dwillist
