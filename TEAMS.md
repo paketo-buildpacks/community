@@ -50,7 +50,7 @@
 ### PHP Team
 
 #### Maintainers
-[@dmikusa-pivotal][@dmikusa-pivotal], [@arjun024][@arjun024], [@thitch97][@thitch97], [@dwillist][dwillist]
+[@dmikusa-pivotal][@dmikusa-pivotal], [@arjun024][@arjun024], [@thitch97][@thitch97], [@dwillist][@dwillist]
 
 
 ### Tooling Team
