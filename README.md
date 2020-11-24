@@ -23,7 +23,7 @@ The list of project contributors and maintainers can be found in [TEAMS.md](TEAM
 
 Working group meetings are a great place to more directly communicate with other members of the community. They tend to discuss active [RFCs](https://github.com/paketo-buildpacks/rfcs) and relay general project information.
 
-These meetings occur bi-weekly on Tuesdays at 2pm EST/EDT (18:00 UTC)
+These meetings occur weekly on Tuesdays at 2pm EST/EDT (18:00 UTC)
 
 #### Meeting Info
 
