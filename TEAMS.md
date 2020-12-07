@@ -16,6 +16,10 @@
 
 > Subteams are responsible for maintaining some set of repositories under the `paketo-buildpacks` org. A natural split is into "Language Teams" responsible for maintaining all buildpack & specification changes that pertain to a particular language ecosystem.
 
+### Builders Team
+
+#### Maintainers
+[@ekcasey][@ekcasey], [@dumez-k][@dumez-k], [@fg-j][@fg-j]
 
 ### Content Team
 
@@ -53,6 +57,17 @@
 [@dmikusa-pivotal][@dmikusa-pivotal], [@arjun024][@arjun024], [@thitch97][@thitch97], [@dwillist][@dwillist]
 
 
+### Ruby Team
+
+#### Maintainers
+[@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore]
+
+### Stacks Team
+
+#### Maintainers
+[@dumez-k][@dumez-k], [@mdelillo][@mdelillo], [@martyspiewak][@martyspiewak]
+
+
 ### Tooling Team
 
 #### Maintainers
@@ -71,3 +86,7 @@
 [@sophiewigmore]: https://github.com/sophiewigmore
 [@thitch97]: https://github.com/thitch97
 [@dwillist]: https://github.com/dwillist
+[@fg-j]: https://github.com/fg-j
+[@dumez-k]: https://github.com/dumez-k
+[@mdelillo]: https://github.com/mdelillo
+[@martyspiewak]: https://github.com/martyspiewak
