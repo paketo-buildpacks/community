@@ -73,6 +73,16 @@
 #### Maintainers
 [@ryanmoran][@ryanmoran], [@joshzarrabi][@joshzarrabi], [@sophiewigmore][@sophiewigmore]
 
+### Web Servers Team
+
+#### Maintainers
+[@arjun024][@arjun024], [@thitch97][@thitch97]
+
+### Rust Team
+
+#### Maintainers
+[@ForestEckhardt][@ForestEckhardt], [@dmikusa-pivotal][@dmikusa-pivotal]
+
 [@nebhale]: https://github.com/nebhale
 [@sclevine]: https://github.com/sclevine
 [@ekcasey]: https://github.com/ekcasey
