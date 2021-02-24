@@ -42,7 +42,7 @@
 ### .NET Core Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt], [@joshzarrabi][@joshzarrabi], [@fg-j][@fg-j]
+[@ForestEckhardt][@ForestEckhardt], [@joshzarrabi][@joshzarrabi], [@fg-j][@fg-j], [@sophiewigmore][@sophiewigmore]
 
 
 ### Node.js Team
