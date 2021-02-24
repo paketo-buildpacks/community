@@ -42,7 +42,7 @@
 ### .NET Core Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt], [@joshzarrabi][@joshzarrabi]
+[@ForestEckhardt][@ForestEckhardt], [@joshzarrabi][@joshzarrabi], [@fg-j][@fg-j], [@sophiewigmore][@sophiewigmore]
 
 
 ### Node.js Team
@@ -62,6 +62,7 @@
 #### Maintainers
 [@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore]
 
+
 ### Stacks Team
 
 #### Maintainers
@@ -73,10 +74,12 @@
 #### Maintainers
 [@ryanmoran][@ryanmoran], [@joshzarrabi][@joshzarrabi], [@sophiewigmore][@sophiewigmore]
 
+
 ### Web Servers Team
 
 #### Maintainers
 [@arjun024][@arjun024], [@thitch97][@thitch97]
+
 
 ### Rust Team
 
