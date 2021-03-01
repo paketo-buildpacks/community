@@ -11,7 +11,7 @@ Paketo consists of two github organizations:
 
 The `paketo-buildpacks` github organization consists of actively supported buildpacks, libraries etc.
 
-The `paketo-community` github organization is designed as a staging ground for acceptance into the officially supported `paketo-buildpacks` org. Promotion from `paketo-community` into `paketo-buildpacks` requires an official [`rfc`](github.com/paketo-buildpacks/rfcs).
+The `paketo-community` github organization is designed as a staging ground for acceptance into the officially supported `paketo-buildpacks` org. Promotion from `paketo-community` into `paketo-buildpacks` requires an official [`rfc`](https://github.com/paketo-buildpacks/rfcs).
 
 ## Contribution Model:
 
