@@ -1,6 +1,6 @@
 # Paketo Governance
 
-This document defines the governance structure for the Paketo project. Initial governance RFC can be found [here](https://github.com/paketo-buildpacks/rfcs/blob/master/accepted/0002-governance.md)
+This document defines the governance structure for the Paketo project. Initial governance RFC can be found [here](https://github.com/paketo-buildpacks/rfcs/blob/main/implemented/0002-governance.md)
 
 ## Organizations:
 
