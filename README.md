@@ -10,7 +10,7 @@ We make decisions as a group in a variety of public forums. Our governance pract
 
 
 ## Roadmap
-Coming soon!
+There's a post on the Paketo blog about our [2021 Roadmap](https://blog.paketo.io/posts/2021-roadmap).
 
 
 
