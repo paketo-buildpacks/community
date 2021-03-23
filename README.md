@@ -33,3 +33,7 @@ Zoom Invite: https://VMware.zoom.us/j/97458838615?pwd=djB0OTZyTXpNd2dQa0ZQb3V2UF
 
 Meeting notes are logged on a public [Google Doc](https://docs.google.com/document/d/1V1jtZmjpivMsWdoYOrGlaK4exoIezn2r4Lf3XcPxduQ/view)
 
+#### Meeting Recordings
+
+Meetings are recorded and uploaded to the [Paketo Buildpack YouTube channel](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ) 
+
