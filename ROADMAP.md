@@ -118,6 +118,11 @@ This roadmap will continue to be updated as our priorities evolve.
 - RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/accepted/0006-web-servers.md
 - Implementation Repository: https://github.com/paketo-community/web-servers
 
+### Support poetry in Python Buildpack
+- Outcomes: Python applications that use the [poetry dependency manager](https://python-poetry.org) can be supported.
+- RFC: **PENDING**
+- Feature Request: https://github.com/paketo-community/python/issues/196
+
 ## Non-Production Use Cases
 
 ### Local-Development Framework Integrations
