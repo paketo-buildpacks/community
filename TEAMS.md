@@ -16,10 +16,10 @@
 [@ekcasey][@ekcasey], [@dumez-k][@dumez-k], [@fg-j][@fg-j], [@ForestEckhardt][@ForestEckhardt]
 
 #### Contributors
-[@nebhale][@nebhale], [@ryanmoran][@ryanmoran], [@arjun024][@arjun024], [@twoseat][@twoseat], [@thitch97][@thitch97], [@mdelillo][@mdelillo], [@sophiewigmore][@sophiewigmore], [@martyspiewak][@martyspiewak]
+[@nebhale][@nebhale], [@ryanmoran][@ryanmoran], [@arjun024][@arjun024], [@twoseat][@twoseat], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore], [@martyspiewak][@martyspiewak]
 
 ##### Emeritus Members
-[@joshzarrabi][@joshzarrabi]
+[@joshzarrabi][@joshzarrabi], [@mdelillo][@mdelillo]
 
 ---
 
@@ -39,7 +39,10 @@
 ### Dependencies Team
 
 #### Maintainers
-[@mdelillo][@mdelillo], [@martyspiewak][@martyspiewak], [@dumez-k][@dumez-k]
+[@martyspiewak][@martyspiewak], [@dumez-k][@dumez-k]
+
+##### Emeritus Members
+[@mdelillo][@mdelillo]
 
 #### Contributors
 [@brayanhenao][@brayanhenao]
@@ -141,7 +144,10 @@
 ### Stacks Team
 
 #### Maintainers
-[@dumez-k][@dumez-k], [@mdelillo][@mdelillo], [@martyspiewak][@martyspiewak]
+[@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak]
+
+##### Emeritus Members
+[@mdelillo][@mdelillo]
 
 #### Contributors
 [@brayanhenao][@brayanhenao]
