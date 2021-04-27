@@ -22,25 +22,16 @@ This roadmap will continue to be updated as our priorities evolve.
 - Outcomes: All buildpacks are primarily configured via environment variables.
   This will provide a common interface that is maximally configurable for
   different use-cases.
-- RFCs:
-  - https://github.com/paketo-buildpacks/rfcs/blob/main/accepted/0003-replace-buildpack-yml.md
-  - https://github.com/paketo-buildpacks/rfcs/blob/main/accepted/0019-buildpack-set-env-vars-defaults.md
-  - https://github.com/paketo-buildpacks/dotnet-core/blob/main/rfcs/0002-buildpack-yml-to-env-var.md
-  - https://github.com/paketo-buildpacks/go-build/blob/main/rfcs/0003-buildpack-yml-to-env-var.md
-  - https://github.com/paketo-buildpacks/go-dist/blob/main/rfcs/0001-buildpack-yml-to-env-var.md
-  - https://github.com/paketo-buildpacks/httpd/blob/main/rfcs/0001-buildpack-yml-to-env-var.md
-  - https://github.com/paketo-buildpacks/nginx/blob/main/rfcs/0001-buildpack-yml-to-env-var.md
-  - https://github.com/paketo-buildpacks/nodejs/blob/main/rfcs/0003-buildpack-yml-to-env-var.md
-  - https://github.com/paketo-buildpacks/ruby/blob/main/rfcs/0003-buildpack-yml-to-env-var.md
+- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/text/0026-environment-variable-configuration-of-buildpacks.md
 - Issues:
-  - [ ] https://github.com/paketo-buildpacks/dotnet-core-aspnet/issues/151
-  - [ ] https://github.com/paketo-buildpacks/dotnet-core-runtime/issues/150
-  - [ ] https://github.com/paketo-buildpacks/dotnet-core-sdk/issues/152
-  - [ ] https://github.com/paketo-buildpacks/dotnet-execute/issues/151
-  - [ ] https://github.com/paketo-buildpacks/dotnet-publish/issues/154
-  - [ ] https://github.com/paketo-buildpacks/httpd/issues/168
-  - [ ] https://github.com/paketo-buildpacks/nginx/issues/194
-  - [ ] https://github.com/paketo-buildpacks/node-start/issues/58
+  - [x] https://github.com/paketo-buildpacks/dotnet-core-aspnet/issues/151
+  - [x] https://github.com/paketo-buildpacks/dotnet-core-runtime/issues/150
+  - [x] https://github.com/paketo-buildpacks/dotnet-core-sdk/issues/152
+  - [x] https://github.com/paketo-buildpacks/dotnet-execute/issues/151
+  - [x] https://github.com/paketo-buildpacks/dotnet-publish/issues/154
+  - [x] https://github.com/paketo-buildpacks/httpd/issues/168
+  - [x] https://github.com/paketo-buildpacks/nginx/issues/194
+  - [x] https://github.com/paketo-buildpacks/node-start/issues/58
 
 ### Ensure all Language Families include Common Utility Buildpacks
 - Outcomes: All language family buildpacks should include the common utility
@@ -48,25 +39,28 @@ This roadmap will continue to be updated as our priorities evolve.
 - RFCs:
   - https://github.com/paketo-buildpacks/ruby/blob/main/rfcs/0002-procfile.md
 - Issues:
-  - [ ] https://github.com/paketo-buildpacks/dotnet-core/issues/349
-  - [ ] https://github.com/paketo-buildpacks/dotnet-core/issues/395
-  - [ ] https://github.com/paketo-buildpacks/dotnet-core/issues/6
-  - [ ] https://github.com/paketo-buildpacks/dotnet-core/issues/7
-  - [ ] https://github.com/paketo-buildpacks/go/issues/326
-  - [ ] https://github.com/paketo-buildpacks/go/issues/363
-  - [ ] https://github.com/paketo-buildpacks/go/issues/7
-  - [ ] https://github.com/paketo-buildpacks/go/issues/8
-  - [ ] https://github.com/paketo-buildpacks/nodejs/issues/260
-  - [ ] https://github.com/paketo-buildpacks/nodejs/issues/308
-  - [ ] https://github.com/paketo-buildpacks/nodejs/issues/7
-  - [ ] https://github.com/paketo-buildpacks/nodejs/issues/8
-  - [ ] https://github.com/paketo-buildpacks/php/issues/273
-  - [ ] https://github.com/paketo-buildpacks/php/issues/315
-  - [ ] https://github.com/paketo-buildpacks/php/issues/4
-  - [ ] https://github.com/paketo-buildpacks/php/issues/5
-  - [ ] https://github.com/paketo-buildpacks/ruby/issues/4
-  - [ ] https://github.com/paketo-buildpacks/ruby/issues/511
-  - [ ] https://github.com/paketo-buildpacks/ruby/issues/9
+  - [x] https://github.com/paketo-buildpacks/dotnet-core/issues/349
+  - [x] https://github.com/paketo-buildpacks/dotnet-core/issues/395
+  - [x] https://github.com/paketo-buildpacks/dotnet-core/issues/6
+  - [x] https://github.com/paketo-buildpacks/dotnet-core/issues/7
+  - [x] https://github.com/paketo-buildpacks/go/issues/326
+  - [x] https://github.com/paketo-buildpacks/go/issues/363
+  - [x] https://github.com/paketo-buildpacks/go/issues/7
+  - [x] https://github.com/paketo-buildpacks/go/issues/8
+  - [x] https://github.com/paketo-buildpacks/nodejs/issues/260
+  - [x] https://github.com/paketo-buildpacks/nodejs/issues/308
+  - [x] https://github.com/paketo-buildpacks/nodejs/issues/7
+  - [x] https://github.com/paketo-buildpacks/nodejs/issues/8
+  - [x] https://github.com/paketo-buildpacks/php/issues/273
+  - [x] https://github.com/paketo-buildpacks/php/issues/315
+  - [x] https://github.com/paketo-buildpacks/php/issues/4
+  - [x] https://github.com/paketo-buildpacks/php/issues/5
+  - [x] https://github.com/paketo-buildpacks/ruby/issues/4
+  - [x] https://github.com/paketo-buildpacks/ruby/issues/511
+  - [x] https://github.com/paketo-buildpacks/ruby/issues/9
+  - [ ] https://github.com/paketo-community/python/issues/186
+  - [ ] https://github.com/paketo-community/python/issues/187
+  - [ ] https://github.com/paketo-community/python/issues/214
 
 ### Node.js Buildpack includes APM integrations
 - Outcomes: The Node.js buildpack includes integrations that allow for
@@ -80,7 +74,7 @@ This roadmap will continue to be updated as our priorities evolve.
 ### Publish Buildpacks to the CNB Registry
 - Outcomes: Registering the Paketo buildpacks in the CNB registry will help to
   make them more discoverable.
-- Issue: [ ] https://github.com/paketo-buildpacks/github-config/issues/204
+- Issue: [x] https://github.com/paketo-buildpacks/github-config/issues/204
 
 ### Host our own Blog
 - Outcomes: Hosting our own blog will help to lower the barrier to providing
@@ -120,8 +114,8 @@ This roadmap will continue to be updated as our priorities evolve.
 
 ### Support poetry in Python Buildpack
 - Outcomes: Python applications that use the [poetry dependency manager](https://python-poetry.org) can be supported.
-- RFC: **PENDING**
 - Feature Request: https://github.com/paketo-community/python/issues/196
+- RFC: **PENDING**
 
 ## Non-Production Use Cases
 
