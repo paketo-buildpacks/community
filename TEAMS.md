@@ -26,7 +26,10 @@
 ### Content Team
 
 #### Maintainers
-[@kvedurmu][@kvedurmu], [@ForestEckhardt][@ForestEckhardt]
+[@ForestEckhardt][@ForestEckhardt]
+
+##### Emeritus Members
+[@kvedurmu][@kvedurmu]
 
 #### Contributors
 [@ryanmoran][@ryanmoran], [@arjun024][@arjun024], , [@dmikusa-pivotal][@dmikusa-pivotal], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j]
