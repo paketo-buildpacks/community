@@ -23,15 +23,14 @@ This roadmap will continue to be updated as our priorities evolve.
   This will provide a common interface that is maximally configurable for
   different use-cases.
 - RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/text/0026-environment-variable-configuration-of-buildpacks.md
+- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/58
+
+### Node.js Buildpack includes APM integrations
+- Outcomes: The Node.js buildpack includes integrations that allow for
+  application profiling and monitoring on Google Cloud Platform and Azure.
 - Issues:
-  - [x] https://github.com/paketo-buildpacks/dotnet-core-aspnet/issues/151
-  - [x] https://github.com/paketo-buildpacks/dotnet-core-runtime/issues/150
-  - [x] https://github.com/paketo-buildpacks/dotnet-core-sdk/issues/152
-  - [x] https://github.com/paketo-buildpacks/dotnet-execute/issues/151
-  - [x] https://github.com/paketo-buildpacks/dotnet-publish/issues/154
-  - [x] https://github.com/paketo-buildpacks/httpd/issues/168
-  - [x] https://github.com/paketo-buildpacks/nginx/issues/194
-  - [x] https://github.com/paketo-buildpacks/node-start/issues/58
+  - [ ] https://github.com/paketo-buildpacks/nodejs/issues/310
+  - [ ] https://github.com/paketo-buildpacks/nodejs/issues/311
 
 ### Ensure all Language Families include Common Utility Buildpacks
 - Outcomes: All language family buildpacks should include the common utility
@@ -62,12 +61,22 @@ This roadmap will continue to be updated as our priorities evolve.
   - [ ] https://github.com/paketo-community/python/issues/187
   - [ ] https://github.com/paketo-community/python/issues/214
 
-### Node.js Buildpack includes APM integrations
-- Outcomes: The Node.js buildpack includes integrations that allow for
-  application profiling and monitoring on Google Cloud Platform and Azure.
-- Issues:
-  - [ ] https://github.com/paketo-buildpacks/nodejs/issues/310
-  - [ ] https://github.com/paketo-buildpacks/nodejs/issues/311
+### Dependency Mappings
+- Outcomes: Provide a standardized mechanism for mapping dependencies to a new URI.
+- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/text/0010-dependency-mappings.md
+- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/61
+
+### Default Behaviour for Buildpack-Set Language Ecosystem Environment Variables
+- Outcomes: Buildpacks that define environment variables that are widely used
+  in a language ecosystem allow those variables to be overridden in a
+  reasonable manner.
+- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/text/0019-buildpack-set-env-vars-defaults.md
+- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/64
+
+### Common Logging Levels for Buildpacks
+- Outcomes: All Paketo buildpacks should provide a mechanism for tuning log verbosity.
+- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/text/0027-log-levels.md
+- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/65
 
 ## Expanding the Buildpacks Ecosystem
 
@@ -92,12 +101,12 @@ This roadmap will continue to be updated as our priorities evolve.
 - Outcomes: Buildpacks are made more discoverable by hosting on the popular
   Docker Hub registry.
 - RFC: https://github.com/paketo-buildpacks/rfcs/pull/28
-- Pull Request: https://github.com/paketo-buildpacks/github-config/pull/213
+- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/62
 
 ### Support HTTP Functions in the Go Buildpack
 - Outcomes: A new set of function-based Go applications can be supported.
 - RFC: https://github.com/paketo-buildpacks/rfcs/pull/29
-- Issue: **PENDING**
+- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/63
 
 ### Rust Buildpack
 - Outcomes: A new set of Rust applications can be supported.
@@ -110,12 +119,17 @@ This roadmap will continue to be updated as our priorities evolve.
 ### Web Server Buildpack
 - Outcomes: A new set of Web Server applications can be supported.
 - RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/accepted/0006-web-servers.md
-- Implementation Repository: https://github.com/paketo-community/web-servers
+- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/60
 
 ### Support poetry in Python Buildpack
 - Outcomes: Python applications that use the [poetry dependency manager](https://python-poetry.org) can be supported.
 - Feature Request: https://github.com/paketo-community/python/issues/196
 - RFC: **PENDING**
+
+### Git Buildpack
+- Outcomes: Buildpack-built images can contain Git metadata
+- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/text/0023-git-buildpack.md
+- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/45
 
 ## Non-Production Use Cases
 
