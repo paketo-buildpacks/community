@@ -188,10 +188,13 @@
 ### Utilities Team
 
 #### Maintainers
-[@nebhale][@nebhale], [@ryanmoran][@ryanmoran], [@ekcasey][@ekcasey], [@arjun024][@arjun024], [@twoseat][@twoseat], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore]
+[@nebhale][@nebhale], [@ryanmoran][@ryanmoran], [@ekcasey][@ekcasey], [@arjun024][@arjun024], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore]
 
 #### Contributors
 [@dmikusa-pivotal][@dmikusa-pivotal], [@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson]
+
+##### Emeritus Members
+[@twoseat][@twoseat]
 
 ---
 
