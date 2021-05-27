@@ -68,10 +68,10 @@
 ### Java Team
 
 #### Maintainers
-[@ekcasey][@ekcasey], [@twoseat][@twoseat], [@dmikusa-pivotal][@dmikusa-pivotal]
+[@ekcasey][@ekcasey], [@dmikusa-pivotal][@dmikusa-pivotal]
 
 ##### Emeritus Members
-[@nebhale][@nebhale]
+[@nebhale][@nebhale], [@twoseat][@twoseat]
 
 ---
 
@@ -188,13 +188,13 @@
 ### Utilities Team
 
 #### Maintainers
-[@nebhale][@nebhale], [@ryanmoran][@ryanmoran], [@ekcasey][@ekcasey], [@arjun024][@arjun024], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore], [@dmikusa-pivotal][@dmikusa-pivotal]
+[@ryanmoran][@ryanmoran], [@ekcasey][@ekcasey], [@arjun024][@arjun024], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore], [@dmikusa-pivotal][@dmikusa-pivotal]
 
 #### Contributors
 [@dmikusa-pivotal][@dmikusa-pivotal], [@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson]
 
 ##### Emeritus Members
-[@twoseat][@twoseat]
+[@twoseat][@twoseat], [@nebhale][@nebhale]
 
 ---
 
