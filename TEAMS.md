@@ -32,7 +32,7 @@
 [@kvedurmu][@kvedurmu]
 
 #### Contributors
-[@arjun024][@arjun024], [@dmikusa-pivotal][@dmikusa-pivotal], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore]
+[@andymoe][@andymoe], [@arjun024][@arjun024], [@dmikusa-pivotal][@dmikusa-pivotal], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi], [@dwillist][@dwillist]
@@ -206,6 +206,7 @@
 #### Contributors
 [@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j]
 
+[@andymoe]: https://github.com/andymoe
 [@arjun024]: https://github.com/arjun024
 [@brayanhenao]: https://github.com/brayanhenao
 [@dmikusa-pivotal]: https://github.com/dmikusa-pivotal
