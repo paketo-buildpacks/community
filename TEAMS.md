@@ -42,13 +42,10 @@
 ### Dependencies Team
 
 #### Maintainers
-[@martyspiewak][@martyspiewak], [@dumez-k][@dumez-k]
+[@martyspiewak][@martyspiewak], [@sophiewigmore][@sophiewigmore], [@brayanhenao][@brayanhenao]
 
 ##### Emeritus Members
-[@mdelillo][@mdelillo]
-
-#### Contributors
-[@brayanhenao][@brayanhenao]
+[@mdelillo][@mdelillo], [@dumez-k][@dumez-k]
 
 ---
 
@@ -159,13 +156,10 @@
 ### Stacks Team
 
 #### Maintainers
-[@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak]
+[@martyspiewak][@martyspiewak], [@brayanhenao][@brayanhenao], [@sophiewigmore][@sophiewigmore]
 
 ##### Emeritus Members
-[@mdelillo][@mdelillo]
-
-#### Contributors
-[@brayanhenao][@brayanhenao]
+[@mdelillo][@mdelillo], [@dumez-k][@dumez-k]
 
 ---
 
