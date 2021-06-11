@@ -47,6 +47,9 @@
 ##### Emeritus Members
 [@mdelillo][@mdelillo], [@dumez-k][@dumez-k]
 
+#### Contributors
+[@thitch97][@thitch97]
+
 ---
 
 ### Go Team
