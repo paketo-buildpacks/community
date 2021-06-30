@@ -21,7 +21,11 @@ The list of project contributors and maintainers can be found in [TEAMS.md](TEAM
 
 ## Working Group Meetings
 
-Working group meetings are a great place to more directly communicate with other members of the community. They tend to discuss active [RFCs](https://github.com/paketo-buildpacks/rfcs) and relay general project information.
+Working group meetings are a great place to more directly communicate with other members of the community. They are public an all are welcome to join! See the list of working group meetings below.
+
+### Paketo Project Working Group Meeting
+
+This working groups is to discuss active [RFCs](https://github.com/paketo-buildpacks/rfcs) and relay general project information. It covers all of the Paketo project and is good place to start with new requests.
 
 These meetings occur weekly on Tuesdays at 2pm EST/EDT.
 
@@ -37,3 +41,20 @@ Meeting notes are logged on a public [Google Doc](https://docs.google.com/docume
 
 Meetings are recorded and uploaded to the [Paketo Buildpack YouTube channel](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ) 
 
+### Paketo Java Subteam Working Group Meeting
+
+This working groups is focused on Java related developments for Paketo buildpacks. It is to discuss [open Java subteam RFCs](https://github.com/paketo-buildpacks/rfcs/pulls?q=is%3Apr+is%3Aopen+label%3Ateam%2Fjava+), as well as project direction, status of open issues/pull-requests and to request features or provide feedback on the Java related buildpacks.
+
+These meetings occur bi-weekly on Tuesdays at 9:30am EST/EDT.
+
+#### Meeting Info
+
+Zoom Invite: https://VMware.zoom.us/j/93072518257?pwd=QUNZNmRNYTE4U2liR3p6dWsrM3dFZz09
+
+#### Meeting Notes
+
+Meeting notes are logged on a public [Google Doc](https://docs.google.com/document/d/1lmHtS_LVsmtkNOiT-wWmV03V8PO1YZ0roNqLZPATOmQ/edit)
+
+#### Meeting Recordings
+
+Meetings are recorded and uploaded to the [Paketo Buildpack YouTube channel](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ) 
