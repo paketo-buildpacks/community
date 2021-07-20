@@ -188,7 +188,7 @@
 [@ryanmoran][@ryanmoran], [@ekcasey][@ekcasey], [@arjun024][@arjun024], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore], [@dmikusa-pivotal][@dmikusa-pivotal]
 
 #### Contributors
-[@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson]
+[@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@pivotal-david-osullivan][@pivotal-david-osullivan]
 
 ##### Emeritus Members
 [@twoseat][@twoseat], [@nebhale][@nebhale]
@@ -219,6 +219,7 @@
 [@martyspiewak]: https://github.com/martyspiewak
 [@mdelillo]: https://github.com/mdelillo
 [@nebhale]: https://github.com/nebhale
+[@pivotal-david-osullivan]: https://github.com/pivotal-david-osullivan
 [@ryanmoran]: https://github.com/ryanmoran
 [@sclevine]: https://github.com/sclevine
 [@sophiewigmore]: https://github.com/sophiewigmore
