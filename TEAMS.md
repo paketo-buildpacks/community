@@ -48,7 +48,7 @@
 [@mdelillo][@mdelillo], [@dumez-k][@dumez-k]
 
 #### Contributors
-[@thitch97][@thitch97]
+[@thitch97][@thitch97], [@arjun024][@arjun024]
 
 ---
 
@@ -163,6 +163,9 @@
 
 ##### Emeritus Members
 [@mdelillo][@mdelillo], [@dumez-k][@dumez-k]
+
+#### Contributors
+[@arjun024][@arjun024]
 
 ---
 
