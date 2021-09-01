@@ -97,7 +97,7 @@
 [@arjun024][@arjun024], [@thitch97][@thitch97]
 
 #### Contributors
-[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson]
+[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@AccraZed][@AccraZed]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi], [@dwillist][@dwillist]
@@ -203,6 +203,7 @@
 #### Contributors
 [@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j]
 
+[@AccraZed]: https://github.com/AccraZed
 [@andymoe]: https://github.com/andymoe
 [@arjun024]: https://github.com/arjun024
 [@brayanhenao]: https://github.com/brayanhenao
