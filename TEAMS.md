@@ -42,10 +42,10 @@
 ### Dependencies Team
 
 #### Maintainers
-[@martyspiewak][@martyspiewak], [@sophiewigmore][@sophiewigmore], [@brayanhenao][@brayanhenao]
+[@sophiewigmore][@sophiewigmore], [@brayanhenao][@brayanhenao]
 
 ##### Emeritus Members
-[@mdelillo][@mdelillo], [@dumez-k][@dumez-k]
+[@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak]
 
 #### Contributors
 [@thitch97][@thitch97], [@arjun024][@arjun024]
