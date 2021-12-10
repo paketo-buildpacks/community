@@ -107,13 +107,13 @@
 ### PHP Team
 
 #### Maintainers
-[@dmikusa-pivotal][@dmikusa-pivotal], [@arjun024][@arjun024], [@thitch97][@thitch97]
+[@dmikusa-pivotal][@dmikusa-pivotal], [@thitch97][@thitch97]
 
 ##### Emeritus Members
 [@dwillist][@dwillist]
 
 #### Contributors
-[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j]
+[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@arjun024][@arjun024]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi]
@@ -123,13 +123,13 @@
 ### Python Team
 
 #### Maintainers
-[@arjun024][@arjun024], [@thitch97][@thitch97]
+[@thitch97][@thitch97]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi]
 
 #### Contributors
-[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@emmjohnson][@emmjohnson]
+[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@emmjohnson][@emmjohnson], [@arjun024][@arjun024]
 
 ##### Emeritus Members
 [@dwillist][@dwillist]
