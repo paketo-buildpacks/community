@@ -129,7 +129,7 @@
 [@joshzarrabi][@joshzarrabi]
 
 #### Contributors
-[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@emmjohnson][@emmjohnson], [@arjun024][@arjun024]
+[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@emmjohnson][@emmjohnson], [@arjun024][@arjun024], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
 [@dwillist][@dwillist]
@@ -224,6 +224,7 @@
 [@mdelillo]: https://github.com/mdelillo
 [@nebhale]: https://github.com/nebhale
 [@pivotal-david-osullivan]: https://github.com/pivotal-david-osullivan
+[@robdimsdale]: https://github.com/robdimsdale
 [@ryanmoran]: https://github.com/ryanmoran
 [@sclevine]: https://github.com/sclevine
 [@sophiewigmore]: https://github.com/sophiewigmore
