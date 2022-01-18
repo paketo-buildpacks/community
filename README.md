@@ -45,7 +45,7 @@ Meetings are recorded and uploaded to the [Paketo Buildpack YouTube channel](htt
 
 This working groups is focused on Java related developments for Paketo buildpacks. It is to discuss [open Java subteam RFCs](https://github.com/paketo-buildpacks/rfcs/pulls?q=is%3Apr+is%3Aopen+label%3Ateam%2Fjava+), as well as project direction, status of open issues/pull-requests and to request features or provide feedback on the Java related buildpacks.
 
-These meetings occur bi-weekly on Tuesdays at 9:30am EST/EDT.
+These meetings occur monthly on the third Tuesdays at 9:30am EST/EDT.
 
 #### Meeting Info
 
@@ -57,4 +57,4 @@ Meeting notes are logged on a public [Google Doc](https://docs.google.com/docume
 
 #### Meeting Recordings
 
-Meetings are recorded and uploaded to the [Paketo Buildpack YouTube channel](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ) 
+Meetings are recorded and uploaded to the [Paketo Buildpack YouTube channel](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)
