@@ -26,10 +26,10 @@
 ### Content Team
 
 #### Maintainers
-[@fg-j][@fg-j], [@ForestEckhardt][@ForestEckhardt], [@ryanmoran][@ryanmoran], [@andymoe][@andymoe], [@TisVictress][@TisVictress]
+[@fg-j][@fg-j], [@ForestEckhardt][@ForestEckhardt], [@ryanmoran][@ryanmoran], [@TisVictress][@TisVictress]
 
 ##### Emeritus Members
-[@kvedurmu][@kvedurmu]
+[@kvedurmu][@kvedurmu], [@andymoe][@andymoe]
 
 #### Contributors
 [@arjun024][@arjun024], [@dmikusa-pivotal][@dmikusa-pivotal], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore]
