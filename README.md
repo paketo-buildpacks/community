@@ -25,13 +25,14 @@ Working group meetings are a great place to more directly communicate with other
 
 ### Paketo Project Working Group Meeting
 
-This working groups is to discuss active [RFCs](https://github.com/paketo-buildpacks/rfcs) and relay general project information. It covers all of the Paketo project and is good place to start with new requests.
+This working group is to discuss active [RFCs](https://github.com/paketo-buildpacks/rfcs) and relay general project information. It covers all of the Paketo project and is a good place to start with new requests.
 
-These meetings occur weekly on Tuesdays at 2pm EST/EDT.
+These meetings occur weekly on Tuesdays at 2:00PM EST/EDT.
 
 #### Meeting Info
 
-Zoom Invite: https://VMware.zoom.us/j/97458838615?pwd=djB0OTZyTXpNd2dQa0ZQb3V2UFVCQT09
+Zoom Invite: 
+ https://VMware.zoom.us/j/97596358329?pwd=aUl4KzhXYnBSa0REVGU2VEhveS9Edz09
 
 #### Meeting Notes
 
