@@ -31,8 +31,7 @@ These meetings occur weekly on Tuesdays at 2:00PM EST/EDT.
 
 #### Meeting Info
 
-Zoom Invite: 
- https://VMware.zoom.us/j/97596358329?pwd=aUl4KzhXYnBSa0REVGU2VEhveS9Edz09
+Zoom Invite: https://zoom.us/j/99479390622?pwd=VVlkdTJGV1lxZ1pycTZKcCtPNENWZz09
 
 #### Meeting Notes
 
