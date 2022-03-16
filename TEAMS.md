@@ -129,7 +129,7 @@
 [@joshzarrabi][@joshzarrabi]
 
 #### Contributors
-[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@emmjohnson][@emmjohnson], [@arjun024][@arjun024]
+[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@emmjohnson][@emmjohnson], [@arjun024][@arjun024], [@joshuatcasey][@joshuatcasey]
 
 ##### Emeritus Members
 [@dwillist][@dwillist]
@@ -221,6 +221,7 @@
 [@fg-j]: https://github.com/fg-j
 [@ForestEckhardt]: https://github.com/ForestEckhardt
 [@genevieve]: https://github.com/genevieve
+[@joshuatcasey]: https://github.com/joshuatcasey
 [@joshzarrabi]: https://github.com/joshzarrabi
 [@kvedurmu]: https://github.com/kvedurmu
 [@martyspiewak]: https://github.com/martyspiewak
