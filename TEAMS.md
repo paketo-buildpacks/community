@@ -84,7 +84,7 @@
 [@joshzarrabi][@joshzarrabi]
 
 #### Contributors
-[@ryanmoran][@ryanmoran], [@arjun024][@arjun024], [@thitch97][@thitch97]
+[@ryanmoran][@ryanmoran], [@arjun024][@arjun024], [@thitch97][@thitch97], [@joshuatcasey][@joshuatcasey]
 
 ##### Emeritus Members
 [@dwillist][@dwillist]
