@@ -97,7 +97,7 @@
 [@thitch97][@thitch97], [@ryanmoran][@ryanmoran]
 
 #### Contributors
-[@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@AccraZed][@AccraZed], [@arjun024][@arjun024]
+[@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@AccraZed][@AccraZed], [@arjun024][@arjun024], [@TisVictress][@TisVictress]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi], [@dwillist][@dwillist]
