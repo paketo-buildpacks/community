@@ -207,7 +207,7 @@
 [@arjun024][@arjun024], [@thitch97][@thitch97]
 
 #### Contributors
-[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j]
+[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@TisVictress][@TisVictress]
 
 [@AccraZed]: https://github.com/AccraZed
 [@andymoe]: https://github.com/andymoe
