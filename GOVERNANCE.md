@@ -45,8 +45,9 @@ Maintainers are in charge of the day to day maintenance of the team's projects.
 
 They review, approve, and merge PRs and may vote on RFCS that affect their subteams, ensuring contributions align with project goals and meet the project's quality standards.
 
-New maintainers must already be contributors, must be nominated by an existing maintainer, and must be elected by a supermajority of the current team's maintainers. Likewise, maintainers can be removed by a supermajority of the current team's maintainers or steering committee or can resign by notifying one of the maintainers.
+New maintainers must already be contributors, must be nominated by an existing maintainer, and must be elected by a supermajority of the current team's maintainers. Likewise, maintainers can be removed by a supermajority of the current team's maintainers or can resign by notifying one of the current team's maintainers.
 
+In extenuating circumstances, i.e. long term absence of a maintainer, steering committee members may act as maintainers of any team in a voting capacity.
 
 #### Steering Committee
 The Steering Committee Members are responsible for the direction of the project (roadmap), subteam leadership, the spec, and cross-cutting concerns such as:
