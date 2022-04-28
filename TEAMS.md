@@ -142,7 +142,7 @@
 [@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore]
 
 #### Contributors
-[@arjun024][@arjun024], [@thitch97][@thitch97], [@genevieve][@genevieve] [@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j]
+[@arjun024][@arjun024], [@thitch97][@thitch97], [@genevieve][@genevieve] [@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi]
