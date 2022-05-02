@@ -4,26 +4,141 @@ The Paketo Buildpacks project is focusing on 3 main themes that encompass our
 efforts for 2021: **Solidifying Existing Buildpacks**, **Expanding the
 Buildpacks Ecosystem**, and **Non-production Use Cases**.
 
-This roadmap will continue to be updated as our priorities evolve.
+## Accepted RFCs
 
-## Solidifying Existing Buildpacks
+### [RFC0010](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0010-dependency-mappings.md): Dependency Mappings
 
-### Python Buildpack Rearchitecture
-- Outcomes: A modular and fully-supported Python buildpack.
-- RFC: https://github.com/paketo-community/python/blob/main/rfcs/0001-restructure.md
-- Issue: [ ] https://github.com/paketo-community/python/issues/226
+We should provide a standard mechanism for mapping dependencies to new URIs
+that works across all Paketo buildpacks.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/61
+
+### [RFC0015](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0015-dockerhub-distribution.md): Distribute Buildpacks via Docker Hub
+
+In addition to the current Google Container Registry (GCR) distribution
+channel, buildpacks should be distributed via Docker Hub.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/62
+
+### [RFC0017](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0017-go-http-fn.md): Support HTTP Functions in the Go Buildpack
+
+A Go buildpack that wraps an `http.HandlerFunc` in appropriate scaffolding to
+serve HTTP, and composes nicely with the existing `go-build` buildpacks.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/63
+
+### [RFC0019](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0019-buildpack-set-env-vars-defaults.md): Default Behaviour for Buildpack-Set Language Ecosystem Environment Variables
+
+Paketo buildpacks sometimes use language ecosystem environment variables to
+configure build- and launch time behaviour.  The environment variables' values
+can come a) from user input at build/launch time or b) from buildpacks'
+"opinions" about proper settings for the container build. If a user provides a
+language ecosystem environment variable at build time **and** the buildpack
+typically sets an opinionated build time value, the user's value should
+override or have precedence over the buildpack-set value. Likewise if a user
+provides a language ecosystem environment variable at launch time.
+
+In addition, if a user provides a language-ecosystem environment variable at
+build time, that value **should not** be "sticky" -- it should not influence
+the launch time value of the environment variable. If a user wants to change
+the launch time value of an environment variable, they should provide it at
+launch time.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/64
+
+### [RFC0026](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0026-environment-variable-configuration-of-buildpacks.md): Environment Variable Configuration of Buildpack
+
+Environment variables passed in at build time via the command line or
+`project.toml` should be the main means for user configuration of a buildpack's
+detect/build processes.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/58
+
+### [RFC0027](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0027-log-levels.md): Common Logging Levels for Buildpacks
+
+All Paketo buildpacks should provide a mechanism for tuning log verbosity. To
+enable this configuration, the buildpacks should respect a `BP_LOG_LEVEL`
+environment variable.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/65
+
+### [RFC0032](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0032-reloadable-process-types.md): Reloadable Process Types
+
+Provide a utility buildpack to support language buildpacks in creating
+reloadable process types for their run containers.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/116
+
+### [RFC0037](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0037-remote-debug.md): Remote Debug
+
+The Java buildpack presently supports enabling remote debugging for
+applications. More buildpacks are looking to enable this functionality. It
+would be helpful to have a consistent set of environment variables used for
+enabling remote connections.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/175
+
+### [RFC0038](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0038-cdx-syft-sbom.md): Support for CycloneDX and Syft SBoM in Paketo
+
+Buildpacks which directly provide a dependency or buildpacks which install
+application dependencies will support the generation of SBoM in the format of
+CycloneDX and Syft. Per [CNB
+RFC#95](https://github.com/buildpacks/rfcs/blob/main/text/0095-sbom.md), the
+SBoM documents will live at `<layer>.bom.<ext>.json`, `launch.bom.<ext>.json`
+and `build.bom.<ext>.json` where `<ext>` will be `cdx` (CycloneDX) or
+`syft` (Syft).
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/176
+
+### [RFC0040](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0040-auto-reference-docs.md): Auto-generate Reference Documentation
+
+We would like to make structural changes to the existing buildpacks
+repositories in order to facilitate the generation of automated documentation
+for each buildpack on the Paketo website.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/178
+
+### [RFC0041](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0041-direct.md): Use Direct Processes and exec.d
+
+This RFC proposes that we move all Paketo buildpacks to use `direct` process
+types and `exec.d` interface instead of `profile.d` interface and `direct =
+false` process types wherever possible without breaking backwards compatibility
+from an end user perspective.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/144
+
+### [RFC0044](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0044-disable-sbom.md): Provide Global Mechanism to Disable SBOM Generation
+
+Users should have a mechanism to disable the generation of SBOM documents
+during the build process.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/180
+
+### [RFC0045](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0045-user-ids.md): Secure runtime environments
+
+This RFC recommends that Paketo Buildpacks should in general strive to avoid
+making run-time modifications to the Buildpacks layers or the application
+directory by default. Instead, they should consider the output image to be
+read-only by default and explicitly set the parts that need to be writeable
+during runtime.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/188
+
+### [RFC0046](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0046-image-retention-policy.md): Define an Image & Dependency Retention Policy for Paketo Images
+
+At the moment, the Paketo Project is maintaining images (buildpack, builder,
+stack, etc..) and hosted dependencies since the beginning of the project. This
+RFC proposes that we define an image and dependency retention policy that would
+allow the project to delete old images and dependencies.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/189
+
+---
 
 ### PHP Buildpack Rearchitecture
 - Outcomes: A modular and fully-supported PHP buildpack.
 - RFC: https://github.com/paketo-buildpacks/php/blob/main/rfcs/0001-restructure.md
-- Issue: **PENDING**
-
-### Common Configuration via Environment Variables
-- Outcomes: All buildpacks are primarily configured via environment variables.
-  This will provide a common interface that is maximally configurable for
-  different use-cases.
-- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/text/0026-environment-variable-configuration-of-buildpacks.md
-- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/58
+- Issue: [ ] https://github.com/paketo-buildpacks/php/issues/485
 
 ### Node.js Buildpack includes APM integrations
 - Outcomes: The Node.js buildpack includes integrations that allow for
@@ -32,110 +147,8 @@ This roadmap will continue to be updated as our priorities evolve.
   - [ ] https://github.com/paketo-buildpacks/nodejs/issues/310
   - [ ] https://github.com/paketo-buildpacks/nodejs/issues/311
 
-### Ensure all Language Families include Common Utility Buildpacks
-- Outcomes: All language family buildpacks should include the common utility
-  buildpacks that enable functionality that is language-ecosystem agnostic.
-- RFCs:
-  - https://github.com/paketo-buildpacks/ruby/blob/main/rfcs/0002-procfile.md
-- Issues:
-  - [x] https://github.com/paketo-buildpacks/dotnet-core/issues/349
-  - [x] https://github.com/paketo-buildpacks/dotnet-core/issues/395
-  - [x] https://github.com/paketo-buildpacks/dotnet-core/issues/6
-  - [x] https://github.com/paketo-buildpacks/dotnet-core/issues/7
-  - [x] https://github.com/paketo-buildpacks/go/issues/326
-  - [x] https://github.com/paketo-buildpacks/go/issues/363
-  - [x] https://github.com/paketo-buildpacks/go/issues/7
-  - [x] https://github.com/paketo-buildpacks/go/issues/8
-  - [x] https://github.com/paketo-buildpacks/nodejs/issues/260
-  - [x] https://github.com/paketo-buildpacks/nodejs/issues/308
-  - [x] https://github.com/paketo-buildpacks/nodejs/issues/7
-  - [x] https://github.com/paketo-buildpacks/nodejs/issues/8
-  - [x] https://github.com/paketo-buildpacks/php/issues/273
-  - [x] https://github.com/paketo-buildpacks/php/issues/315
-  - [x] https://github.com/paketo-buildpacks/php/issues/4
-  - [x] https://github.com/paketo-buildpacks/php/issues/5
-  - [x] https://github.com/paketo-buildpacks/ruby/issues/4
-  - [x] https://github.com/paketo-buildpacks/ruby/issues/511
-  - [x] https://github.com/paketo-buildpacks/ruby/issues/9
-  - [ ] https://github.com/paketo-community/python/issues/186
-  - [ ] https://github.com/paketo-community/python/issues/187
-  - [ ] https://github.com/paketo-community/python/issues/214
+## Improving and Expanding our Base Image / Stack / Builder Offering
 
-### Dependency Mappings
-- Outcomes: Provide a standardized mechanism for mapping dependencies to a new URI.
-- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/text/0010-dependency-mappings.md
-- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/61
+## Improving the Buildpack Authoring Experience
 
-### Default Behaviour for Buildpack-Set Language Ecosystem Environment Variables
-- Outcomes: Buildpacks that define environment variables that are widely used
-  in a language ecosystem allow those variables to be overridden in a
-  reasonable manner.
-- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/text/0019-buildpack-set-env-vars-defaults.md
-- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/64
-
-### Common Logging Levels for Buildpacks
-- Outcomes: All Paketo buildpacks should provide a mechanism for tuning log verbosity.
-- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/text/0027-log-levels.md
-- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/65
-
-## Expanding the Buildpacks Ecosystem
-
-### Publish Buildpacks to the CNB Registry
-- Outcomes: Registering the Paketo buildpacks in the CNB registry will help to
-  make them more discoverable.
-- Issue: [x] https://github.com/paketo-buildpacks/github-config/issues/204
-
-### Host our own Blog
-- Outcomes: Hosting our own blog will help to lower the barrier to providing
-  high quality buildpacks-related content.
-- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/implemented/0020-blog.md
-- Implementation Repository: https://github.com/paketo-buildpacks/blog
-
-### Expose Buildpack Ecosystem Metadata via a Dashboard
-- Outcomes: Exposing buildpack metadata in a public location will help with
-  transparency and efficiency in delivering buildpack features and bug fixes.
-- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/implemented/0018-dashboard.md
-- Implementation Repository: https://github.com/paketo-buildpacks/dashboard
-
-### Distribute Buildpacks via Docker Hub
-- Outcomes: Buildpacks are made more discoverable by hosting on the popular
-  Docker Hub registry.
-- RFC: https://github.com/paketo-buildpacks/rfcs/pull/28
-- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/62
-
-### Support HTTP Functions in the Go Buildpack
-- Outcomes: A new set of function-based Go applications can be supported.
-- RFC: https://github.com/paketo-buildpacks/rfcs/pull/29
-- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/63
-
-### Rust Buildpack
-- Outcomes: A new set of Rust applications can be supported.
-- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/accepted/0014-rust.md
-- Implementation Repositories:
-  - https://github.com/paketo-community/rust
-  - https://github.com/paketo-community/rust-dist
-  - https://github.com/paketo-community/cargo-install
-
-### Web Server Buildpack
-- Outcomes: A new set of Web Server applications can be supported.
-- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/accepted/0006-web-servers.md
-- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/60
-
-### Support poetry in Python Buildpack
-- Outcomes: Python applications that use the [poetry dependency manager](https://python-poetry.org) can be supported.
-- Feature Request: https://github.com/paketo-community/python/issues/196
-- RFC: **PENDING**
-
-### Git Buildpack
-- Outcomes: Buildpack-built images can contain Git metadata
-- RFC: https://github.com/paketo-buildpacks/rfcs/blob/main/text/0023-git-buildpack.md
-- Issue: [ ] https://github.com/paketo-buildpacks/rfcs/issues/45
-
-## Non-Production Use Cases
-
-### Local-Development Framework Integrations
-- Outcomes: Buildpacks play a supporting role in enabling a productive local
-  development experience.
-- Explorations:
-  - Tilt: https://github.com/ryanmoran/explorations/blob/main/0002-tilt/README.md
-  - Skaffold: https://github.com/ryanmoran/explorations/blob/main/0004-skaffold/README.md
+## Improvements to Dependency Management and Caching
