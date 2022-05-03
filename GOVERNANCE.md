@@ -37,13 +37,12 @@ Each team is additionally responsible for maintaining  relevant documentation at
 #### Contributor:
 Contributors are those who make regular contributions to the project (documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). 
 
-New contributors may be self-nominated or nominated by existing contributors, and must be elected by a supermajority of that project’s maintainers. Contributors may merge approved PRs, and create branches.
-
+New contributors may be self-nominated or nominated by existing contributors, and must be elected by a supermajority of that project’s maintainers. Contributors may review and approve PRs (non-binding), merge approved PRs, and create branches.
 
 #### Maintainers
 Maintainers are in charge of the day to day maintenance of the team's projects.
 
-They review, approve, and merge PRs and may vote on RFCS that affect their subteams, ensuring contributions align with project goals and meet the project's quality standards.
+They review and approve (binding) PRs, merge PRs, and may vote on RFCS that affect their subteams, ensuring contributions align with project goals and meet the project's quality standards.
 
 New maintainers must already be contributors, must be nominated by an existing maintainer, and must be elected by a supermajority of the current team's maintainers. Likewise, maintainers can be removed by a supermajority of the current team's maintainers or can resign by notifying one of the current team's maintainers.
 
