@@ -180,3 +180,30 @@ more limited functionality, but in composition provides a powerful way to build
 various kinds of images related to PHP.
 
 - Tracking Issue: https://github.com/paketo-buildpacks/php/issues/485
+
+### [dotnet-core/RFC0003](https://github.com/paketo-buildpacks/rfcs/blob/main/text/dotnet-core/rfcs/0003-publish-build-process-config.md): Publish Build Process Configuration Options
+
+The build process of the `dotnet-publish` buildpack should be explicitly
+separated into 2 commands, `dotnet restore` and `dotnet publish`. Following
+this split, each command should be configurable using either the
+`BP_DOTNET_RESTORE_FLAGS` or `BP_DOTNET_PUBLISH_FLAGS` environment variables.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/dotnet-publish/issues/213
+
+### [web-servers/RFC0003](https://github.com/paketo-buildpacks/rfcs/blob/main/text/web-servers/0003-javascript-frontend.md): Support for JavaScript Frontend applications
+
+The Web Servers language family should support JavaScript frontend applications
+that required a build process to transform their codebase into a deployable
+artifact. The Web Servers language family will adopt several of the buildpacks
+available in the Node.js language family to create an order grouping capable of
+building these types of frontend applications.
+
+- Tracking Issue: https://github.com/paketo-community/web-servers/issues/12
+
+### [web-servers/RFC0004](https://github.com/paketo-buildpacks/rfcs/blob/main/text/web-servers/0004-zero-config.md): Support "zero-configuration" build processes
+
+The NGINX and HTTPD buildpacks within the Web Servers language-family should
+provide a "zero-configuration" option whereby they generate a very simple
+configuration so that the buildpack user does not need to.
+
+- Tracking Issue: https://github.com/paketo-community/web-servers/issues/57
