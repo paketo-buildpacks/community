@@ -1,10 +1,77 @@
 # Roadmap
 
 The Paketo Buildpacks project is focusing on 3 main themes that encompass our
-efforts for 2021: **Solidifying Existing Buildpacks**, **Expanding the
-Buildpacks Ecosystem**, and **Non-production Use Cases**.
+efforts for 2022: **Improving and Expanding our Base Image / Stack / Builder
+Offering**, **Improving the Buildpack Authoring Experience**, and
+**Improvements to Dependency Management and Caching**.
 
-## Accepted RFCs
+## Improving and Expanding our Base Image / Stack / Builder Offering
+
+### [RFC0045](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0045-user-ids.md): Secure runtime environments
+
+This RFC recommends that Paketo Buildpacks should in general strive to avoid
+making run-time modifications to the Buildpacks layers or the application
+directory by default. Instead, they should consider the output image to be
+read-only by default and explicitly set the parts that need to be writeable
+during runtime.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/188
+
+### [RFC0046](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0046-image-retention-policy.md): Define an Image & Dependency Retention Policy for Paketo Images
+
+At the moment, the Paketo Project is maintaining images (buildpack, builder,
+stack, etc..) and hosted dependencies since the beginning of the project. This
+RFC proposes that we define an image and dependency retention policy that would
+allow the project to delete old images and dependencies.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/189
+
+### [stacks/RFC0003](https://github.com/paketo-buildpacks/rfcs/blob/main/text/stacks/0003-stack-descriptor.md): Stack Descriptor and Tooling
+
+The stack-building codebase,
+[`create-stack`](https://github.com/paketo-buildpacks/stacks/tree/main/create-stack)
+should be moved into the `jam` tooling CLI, and allow users to configure their
+stack build via a common configuration file.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/jam/issues/52
+
+### [stacks/RFC0004](https://github.com/paketo-buildpacks/rfcs/blob/main/text/stacks/0004-jammy-jellyfish.md): Stacks based on Ubuntu 2022.04: Jammy Jellyfish
+
+A set of stacks based on the Ubuntu 2022.04 LTS (Jammy Jellyfish) release base
+image should be developed, released, and maintained by the Stacks subteam. Like
+the existing Bionic stacks, these new stacks should come in "full", "base", and
+"tiny" variants with similar, if not identical, sets of packages pre-installed.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/stacks/issues/133
+
+## Improving the Buildpack Authoring Experience
+
+### [RFC0040](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0040-auto-reference-docs.md): Auto-generate Reference Documentation
+
+We would like to make structural changes to the existing buildpacks
+repositories in order to facilitate the generation of automated documentation
+for each buildpack on the Paketo website.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/178
+
+## Improvements to Dependency Management and Caching
+
+### [Exploration](https://github.com/paketo-community/explorations/issues/8): Buildpack Dependency Management Improvements
+
+Many of the Paketo buildpacks contain references to dependencies that they will
+install during their build phase. These dependencies are often language
+runtimes like Ruby MRI or package managers like Poetry. The dependencies are
+tracked and built from their upstream source
+([dep-server](https://github.com/paketo-buildpacks/dep-server)) and updated in
+buildpacks ([`jam
+update-dependencies`](https://github.com/paketo-buildpacks/jam/blob/8d4a1a18bfc2b810e5038e5c496258843a8f2b51/commands/update_dependencies.go)
+and [dependency/update
+action](https://github.com/paketo-buildpacks/github-config/blob/cfa9081b98d7b8e574461e12e5527ef5d826c7d9/actions/dependency/update/action.yml))
+through a considerable amount of automation. This current architecture has
+outlived its utility and will likely present a significant technical headwind
+as we attempt to move buildpacks to new stacks.
+
+## Other Open RFCs
 
 ### [RFC0010](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0010-dependency-mappings.md): Dependency Mappings
 
@@ -90,14 +157,6 @@ and `build.bom.<ext>.json` where `<ext>` will be `cdx` (CycloneDX) or
 
 - Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/176
 
-### [RFC0040](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0040-auto-reference-docs.md): Auto-generate Reference Documentation
-
-We would like to make structural changes to the existing buildpacks
-repositories in order to facilitate the generation of automated documentation
-for each buildpack on the Paketo website.
-
-- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/178
-
 ### [RFC0041](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0041-direct.md): Use Direct Processes and exec.d
 
 This RFC proposes that we move all Paketo buildpacks to use `direct` process
@@ -114,41 +173,10 @@ during the build process.
 
 - Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/180
 
-### [RFC0045](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0045-user-ids.md): Secure runtime environments
+### [php/RFC0001](https://github.com/paketo-buildpacks/rfcs/blob/main/text/php/0001-restructure.md): Restructuring PHP Buildpacks
 
-This RFC recommends that Paketo Buildpacks should in general strive to avoid
-making run-time modifications to the Buildpacks layers or the application
-directory by default. Instead, they should consider the output image to be
-read-only by default and explicitly set the parts that need to be writeable
-during runtime.
+The RFC proposes a new set of smaller buildpacks that, by themselves provides
+more limited functionality, but in composition provides a powerful way to build
+various kinds of images related to PHP.
 
-- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/188
-
-### [RFC0046](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0046-image-retention-policy.md): Define an Image & Dependency Retention Policy for Paketo Images
-
-At the moment, the Paketo Project is maintaining images (buildpack, builder,
-stack, etc..) and hosted dependencies since the beginning of the project. This
-RFC proposes that we define an image and dependency retention policy that would
-allow the project to delete old images and dependencies.
-
-- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/189
-
----
-
-### PHP Buildpack Rearchitecture
-- Outcomes: A modular and fully-supported PHP buildpack.
-- RFC: https://github.com/paketo-buildpacks/php/blob/main/rfcs/0001-restructure.md
-- Issue: [ ] https://github.com/paketo-buildpacks/php/issues/485
-
-### Node.js Buildpack includes APM integrations
-- Outcomes: The Node.js buildpack includes integrations that allow for
-  application profiling and monitoring on Google Cloud Platform and Azure.
-- Issues:
-  - [ ] https://github.com/paketo-buildpacks/nodejs/issues/310
-  - [ ] https://github.com/paketo-buildpacks/nodejs/issues/311
-
-## Improving and Expanding our Base Image / Stack / Builder Offering
-
-## Improving the Buildpack Authoring Experience
-
-## Improvements to Dependency Management and Caching
+- Tracking Issue: https://github.com/paketo-buildpacks/php/issues/485
