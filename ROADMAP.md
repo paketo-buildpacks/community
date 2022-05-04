@@ -173,6 +173,16 @@ during the build process.
 
 - Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/180
 
+### [RFC0047](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0047-promote-web-servers-buildpack.md): Web Servers Buildpack Promotion
+
+A [Web Servers Buildpack](https://github.com/paketo-community/web-servers) exists as a
+community created buildpack in the [Paketo Community
+Org](https://github.com/paketo-community/web-servers). This RFC proposes the promotion
+of the Web Servers Buildpack from a "Community" buildpack to an official Paketo
+Buildpack.
+
+- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/193
+
 ### [php/RFC0001](https://github.com/paketo-buildpacks/rfcs/blob/main/text/php/0001-restructure.md): Restructuring PHP Buildpacks
 
 The RFC proposes a new set of smaller buildpacks that, by themselves provides
