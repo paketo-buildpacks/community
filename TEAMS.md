@@ -204,10 +204,10 @@
 ### Web Servers Team
 
 #### Maintainers
-[@arjun024][@arjun024], [@thitch97][@thitch97]
+[@arjun024][@arjun024], [@thitch97][@thitch97], [@ForestEckhardt][@ForestEckhardt]
 
 #### Contributors
-[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@TisVictress][@TisVictress]
+[@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@TisVictress][@TisVictress]
 
 [@AccraZed]: https://github.com/AccraZed
 [@andymoe]: https://github.com/andymoe
