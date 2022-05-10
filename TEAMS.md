@@ -139,10 +139,10 @@
 ### Ruby Team
 
 #### Maintainers
-[@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore]
+[@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore], [@robdimsdale][@robdimsdale]
 
 #### Contributors
-[@arjun024][@arjun024], [@thitch97][@thitch97], [@genevieve][@genevieve] [@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@robdimsdale][@robdimsdale]
+[@arjun024][@arjun024], [@thitch97][@thitch97], [@genevieve][@genevieve] [@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi]
