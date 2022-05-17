@@ -34,7 +34,10 @@ Each team is additionally responsible for maintaining  relevant documentation at
 
 ### Roles
 
-#### Contributor:
+#### Everyone
+You do not need to be a member of the Paketo team to help. Anyone can help by using and talking about Paketo Buildpacks, participating in discussions, answering questions on Slack/Stack Overflow, opening issues, submitting PRs, etc... All of these are fantastic and welcome contributions to the community.
+
+#### Contributor
 Contributors are those who make regular contributions to the project (documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). 
 
 New contributors may be self-nominated or nominated by existing contributors, and must be elected by a supermajority of that project’s maintainers. Contributors may review and approve PRs (non-binding), merge approved PRs, and create branches.
