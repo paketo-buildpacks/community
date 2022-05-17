@@ -32,7 +32,7 @@
 [@kvedurmu][@kvedurmu], [@andymoe][@andymoe]
 
 #### Contributors
-[@arjun024][@arjun024], [@dmikusa-pivotal][@dmikusa-pivotal], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore]
+[@arjun024][@arjun024], [@dmikusa-pivotal][@dmikusa-pivotal], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi], [@dwillist][@dwillist]
@@ -178,7 +178,7 @@
 [@joshzarrabi][@joshzarrabi]
 
 #### Contributors
-[@arjun024][@arjun024], [@dmikusa-pivotal][@dmikusa-pivotal], [@thitch97][@thitch97]
+[@arjun024][@arjun024], [@dmikusa-pivotal][@dmikusa-pivotal], [@thitch97][@thitch97], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
 [@dwillist][@dwillist]
