@@ -58,7 +58,7 @@
 [@ForestEckhardt][@ForestEckhardt], [@ryanmoran][@ryanmoran], [@fg-j][@fg-j]
 
 #### Contributors
-[@arjun024][@arjun024], [@thitch97][@thitch97], [@genevieve][@genevieve], [@sophiewigmore][@sophiewigmore], [@TisVictress][@TisVictress]
+[@arjun024][@arjun024], [@thitch97][@thitch97], [@genevieve][@genevieve], [@sophiewigmore][@sophiewigmore], [@TisVictress][@TisVictress], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi], [@dwillist][@dwillist]
