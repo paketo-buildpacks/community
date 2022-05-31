@@ -94,10 +94,10 @@
 ### Node.js Team
 
 #### Maintainers
-[@thitch97][@thitch97], [@ryanmoran][@ryanmoran]
+[@thitch97][@thitch97], [@ryanmoran][@ryanmoran], [@TisVictress][@TisVictress]
 
 #### Contributors
-[@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@AccraZed][@AccraZed], [@arjun024][@arjun024], [@TisVictress][@TisVictress]
+[@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@AccraZed][@AccraZed], [@arjun024][@arjun024]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi], [@dwillist][@dwillist]
