@@ -165,7 +165,7 @@
 [@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak]
 
 #### Contributors
-[@arjun024][@arjun024], [@ryanmoran][@ryanmoran]
+[@arjun024][@arjun024], [@ryanmoran][@ryanmoran], [@robdimsdale][@robdimsdale]
 
 ---
 
