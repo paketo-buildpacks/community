@@ -132,10 +132,3 @@ and `build.bom.<ext>.json` where `<ext>` will be `cdx` (CycloneDX) or
 `syft` (Syft).
 
 - Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/176
-
-### [RFC0044](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0044-disable-sbom.md): Provide Global Mechanism to Disable SBOM Generation
-
-Users should have a mechanism to disable the generation of SBOM documents
-during the build process.
-
-- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/180
