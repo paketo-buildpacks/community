@@ -26,15 +26,6 @@ allow the project to delete old images and dependencies.
 
 - Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/189
 
-### [stacks/RFC0003](https://github.com/paketo-buildpacks/rfcs/blob/main/text/stacks/0003-stack-descriptor.md): Stack Descriptor and Tooling
-
-The stack-building codebase,
-[`create-stack`](https://github.com/paketo-buildpacks/stacks/tree/main/create-stack)
-should be moved into the `jam` tooling CLI, and allow users to configure their
-stack build via a common configuration file.
-
-- Tracking Issue: https://github.com/paketo-buildpacks/jam/issues/52
-
 ### [stacks/RFC0004](https://github.com/paketo-buildpacks/rfcs/blob/main/text/stacks/0004-jammy-jellyfish.md): Stacks based on Ubuntu 2022.04: Jammy Jellyfish
 
 A set of stacks based on the Ubuntu 2022.04 LTS (Jammy Jellyfish) release base
@@ -73,13 +64,6 @@ as we attempt to move buildpacks to new stacks.
 
 ## Other Open RFCs
 
-### [RFC0010](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0010-dependency-mappings.md): Dependency Mappings
-
-We should provide a standard mechanism for mapping dependencies to new URIs
-that works across all Paketo buildpacks.
-
-- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/61
-
 ### [RFC0015](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0015-dockerhub-distribution.md): Distribute Buildpacks via Docker Hub
 
 In addition to the current Google Container Registry (GCR) distribution
@@ -112,14 +96,6 @@ the launch time value of an environment variable, they should provide it at
 launch time.
 
 - Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/64
-
-### [RFC0026](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0026-environment-variable-configuration-of-buildpacks.md): Environment Variable Configuration of Buildpack
-
-Environment variables passed in at build time via the command line or
-`project.toml` should be the main means for user configuration of a buildpack's
-detect/build processes.
-
-- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/58
 
 ### [RFC0027](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0027-log-levels.md): Common Logging Levels for Buildpacks
 
@@ -172,48 +148,3 @@ Users should have a mechanism to disable the generation of SBOM documents
 during the build process.
 
 - Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/180
-
-### [RFC0047](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0047-promote-web-servers-buildpack.md): Web Servers Buildpack Promotion
-
-A [Web Servers Buildpack](https://github.com/paketo-community/web-servers) exists as a
-community created buildpack in the [Paketo Community
-Org](https://github.com/paketo-community/web-servers). This RFC proposes the promotion
-of the Web Servers Buildpack from a "Community" buildpack to an official Paketo
-Buildpack.
-
-- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/193
-
-### [php/RFC0001](https://github.com/paketo-buildpacks/rfcs/blob/main/text/php/0001-restructure.md): Restructuring PHP Buildpacks
-
-The RFC proposes a new set of smaller buildpacks that, by themselves provides
-more limited functionality, but in composition provides a powerful way to build
-various kinds of images related to PHP.
-
-- Tracking Issue: https://github.com/paketo-buildpacks/php/issues/485
-
-### [dotnet-core/RFC0003](https://github.com/paketo-buildpacks/rfcs/blob/main/text/dotnet-core/rfcs/0003-publish-build-process-config.md): Publish Build Process Configuration Options
-
-The build process of the `dotnet-publish` buildpack should be explicitly
-separated into 2 commands, `dotnet restore` and `dotnet publish`. Following
-this split, each command should be configurable using either the
-`BP_DOTNET_RESTORE_FLAGS` or `BP_DOTNET_PUBLISH_FLAGS` environment variables.
-
-- Tracking Issue: https://github.com/paketo-buildpacks/dotnet-publish/issues/213
-
-### [web-servers/RFC0003](https://github.com/paketo-buildpacks/rfcs/blob/main/text/web-servers/0003-javascript-frontend.md): Support for JavaScript Frontend applications
-
-The Web Servers language family should support JavaScript frontend applications
-that required a build process to transform their codebase into a deployable
-artifact. The Web Servers language family will adopt several of the buildpacks
-available in the Node.js language family to create an order grouping capable of
-building these types of frontend applications.
-
-- Tracking Issue: https://github.com/paketo-community/web-servers/issues/12
-
-### [web-servers/RFC0004](https://github.com/paketo-buildpacks/rfcs/blob/main/text/web-servers/0004-zero-config.md): Support "zero-configuration" build processes
-
-The NGINX and HTTPD buildpacks within the Web Servers language-family should
-provide a "zero-configuration" option whereby they generate a very simple
-configuration so that the buildpack user does not need to.
-
-- Tracking Issue: https://github.com/paketo-community/web-servers/issues/57
