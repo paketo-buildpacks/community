@@ -133,15 +133,6 @@ and `build.bom.<ext>.json` where `<ext>` will be `cdx` (CycloneDX) or
 
 - Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/176
 
-### [RFC0041](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0041-direct.md): Use Direct Processes and exec.d
-
-This RFC proposes that we move all Paketo buildpacks to use `direct` process
-types and `exec.d` interface instead of `profile.d` interface and `direct =
-false` process types wherever possible without breaking backwards compatibility
-from an end user perspective.
-
-- Tracking Issue: https://github.com/paketo-buildpacks/rfcs/issues/144
-
 ### [RFC0044](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0044-disable-sbom.md): Provide Global Mechanism to Disable SBOM Generation
 
 Users should have a mechanism to disable the generation of SBOM documents
