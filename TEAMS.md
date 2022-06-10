@@ -68,7 +68,7 @@
 ### Java Team
 
 #### Maintainers
-[@ekcasey][@ekcasey], [@dmikusa-pivotal][@dmikusa-pivotal]
+[@ekcasey][@ekcasey], [@dmikusa-pivotal][@dmikusa-pivotal], [@pivotal-david-osullivan][@pivotal-david-osullivan]
 
 ##### Emeritus Members
 [@nebhale][@nebhale], [@twoseat][@twoseat]
