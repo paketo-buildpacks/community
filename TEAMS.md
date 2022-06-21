@@ -159,13 +159,13 @@
 ### Stacks Team
 
 #### Maintainers
-[@brayanhenao][@brayanhenao], [@sophiewigmore][@sophiewigmore]
+[@brayanhenao][@brayanhenao], [@sophiewigmore][@sophiewigmore], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
 [@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak]
 
 #### Contributors
-[@arjun024][@arjun024], [@ryanmoran][@ryanmoran], [@robdimsdale][@robdimsdale]
+[@arjun024][@arjun024], [@ryanmoran][@ryanmoran]
 
 ---
 
