@@ -71,3 +71,10 @@ Most Paketo buildpacks can be divided into two categories -
    would properly execute in during its `detect` or `build` step with the aim
    being to fail as fast as possible if an incompatible environment is
    detected.
+
+## Language Ecosystem Environment Variable Override
+
+As per [Paketo RFC 0019](https://github.com/paketo-buildpacks/rfcs/blob/main/text/0019-buildpack-set-env-vars-defaults.md), buildpacks that configure environment variables that are recognized by
+language-ecosystem tooling should set the `env.Default` option, not the
+`env.Override` option at both build and launch. This will allow users to
+configure the values of these environment variables.
