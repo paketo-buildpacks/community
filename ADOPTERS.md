@@ -2,7 +2,7 @@
 
 If you're using Paketo Buildpacks and want to add your organization to this list, just add a response to [this Discussion](https://github.com/paketo-buildpacks/feedback/discussions/30) and we'll get your organization added.
 
-If you want to add it yourself, please follow [these directions](#adding-your-organization-to-the-list-of-paketo-buildpacks-adopters)
+If you want to add it yourself, please follow [these directions](#adding-your-organization-to-the-list-of-paketo-buildpacks-adopters).
 
 
 ## Success Stories
