@@ -23,9 +23,11 @@ Paketo buildpacks serve as the default method of converting a Knative function i
 
 ## Adding your organization to the list of Paketo Buildpacks Adopters
 
-* Add an SVG version of your logo to the `/img/adopters` directory in this repo and submit a [pull request](https://github.com/paketo-buildpacks/community/pulls) with your change.   
-* Name the image file something that reflects your company (e.g., if your company is called Acme, name the image acme.png)    
+* Add a link to your company/organization home page, documentation site or product announcement which directly mentions the usage of Paketo Buildpacks. 
 * Include a brief description of how your organization is using Paketo.
+* Add an SVG/PNG version of your logo to the `/img/adopters` directory in this repo and submit a [pull request](https://github.com/paketo-buildpacks/community/pulls) with your change.   
+* Name the image file something that reflects your company (e.g., if your company is called Acme, name the image acme.png)    
+
 
 
 
