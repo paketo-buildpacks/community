@@ -10,7 +10,7 @@ Depending on your preferences, there are both synchronous and asynchronous chann
 
 ## Meetings
 
-Working group meetings are a great place to more directly communicate with other members of the community. They are public an all are welcome to join! See the list of working group meetings below.
+Working group meetings are a great place to more directly communicate with other members of the community. They are public and all are welcome to join! See the list of working group meetings below.
 
 ### 1. Paketo Project Working Group Meeting
 
