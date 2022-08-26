@@ -48,7 +48,7 @@
 [@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak]
 
 #### Contributors
-[@thitch97][@thitch97], [@arjun024][@arjun024], [@ForestEckhardt][@ForestEckhardt]
+[@thitch97][@thitch97], [@arjun024][@arjun024], [@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale]
 
 ---
 
