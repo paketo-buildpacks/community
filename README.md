@@ -15,8 +15,10 @@ Working group meetings are a great place to more directly communicate with other
 ### 1. Paketo Project Working Group Meeting
 
 This working group is to discuss active [RFCs](https://github.com/paketo-buildpacks/rfcs) and relay general project information. It covers all of the Paketo project and is a good place to start with new requests.
-*   When: every Tuesday at 2:00PM EST/EDT
-*   Where: [Zoom](https://zoom.us/j/99479390622?pwd=VVlkdTJGV1lxZ1pycTZKcCtPNENWZz09)
+*   When: 60 minutes, alternating weekly at Tuesday at 18:00 UTC and Wednesday at 15:00 UTC
+*   Where: [Zoom bridge](https://zoom.us/j/99479390622?pwd=VVlkdTJGV1lxZ1pycTZKcCtPNENWZz09)
+*   Agenda and minutes: [Google doc](https://docs.google.com/document/d/1V1jtZmjpivMsWdoYOrGlaK4exoIezn2r4Lf3XcPxduQ/edit?usp=sharing)
+*  Subscribe to the [public calendar](https://lists.paketo.io/g/main/ics/11180210/825925082/feed.ics)
 *   Previous meetings: [[notes](https://docs.google.com/document/d/1V1jtZmjpivMsWdoYOrGlaK4exoIezn2r4Lf3XcPxduQ/view) | [recordings](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)]
 
 
