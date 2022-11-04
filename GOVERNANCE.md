@@ -54,8 +54,8 @@ The following table lists the roles we use within the Paketo community. The tabl
   </thead>
 
   <tr>
-    <td>(everyone)</td>
-    <td>None</td>
+    <td>Community participant</td>
+    <td>Follow the CFF Code of Conduct</td>
     <td>None</td>
     <td>
         <p>Can submit PRs and issues</p>
@@ -64,24 +64,9 @@ The following table lists the roles we use within the Paketo community. The tabl
     </td>
     <td>GitHub Organization</td>
   </tr>  
-
-  <tr>
-    <td>Member</td>
-    <td>
-        <p>Adheres to code of conduct</p>
-    </td>
-    <td>
-        <p>Signed CLA (only for PRs)</p>
-    </td>
-    <td>
-        <p>Can get PRs accepted</p>
-    </td>
-    <td>GitHub Organization</td>
-  </tr>
-
   <tr>
     <td rowspan="2">Contributor</td>
-    <td colspan="4"><i>Inherits from Member Role</i></td>
+    <td colspan="4"><i>Inherits from Community participant Role</i></td>
   </tr>
   <tr>
     <td>
@@ -99,12 +84,11 @@ The following table lists the roles we use within the Paketo community. The tabl
     </td>
     <td>Paketo Subteam</td>
   </tr>
-
-  <tr>
-  <tr>
+<tr>
     <td rowspan="2">Maintainer</td>
     <td colspan="4"><i>Inherits from Contributor Role</i></td>
   </tr>
+ 
   <tr>
     <td>
         <p>Review and approve (binding) PRs</p>
@@ -144,7 +128,7 @@ The following table lists the roles we use within the Paketo community. The tabl
   </tr>
 </table>
 
-#### Everyone
+#### Community participant
 You do not need to be a member of the Paketo team to help. Anyone can help by using and talking about Paketo Buildpacks, participating in discussions, answering questions on Slack/Stack Overflow, opening issues, submitting PRs, etc... All of these are fantastic and welcome contributions to the community.
 
 #### Contributor
