@@ -13,7 +13,10 @@
 ### Builders Team
 
 #### Maintainers
-[@ekcasey][@ekcasey], [@dumez-k][@dumez-k], [@fg-j][@fg-j], [@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale]
+[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale]
+
+##### Emeritus Members
+[@ekcasey][@ekcasey], [@dumez-k][@dumez-k], [@fg-j][@fg-j]
 
 #### Contributors
 [@nebhale][@nebhale], [@ryanmoran][@ryanmoran], [@arjun024][@arjun024], [@twoseat][@twoseat], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore], [@martyspiewak][@martyspiewak]
