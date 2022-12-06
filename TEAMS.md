@@ -116,7 +116,7 @@
 [@dwillist][@dwillist], [@dmikusa-pivotal][@dmikusa-pivotal]
 
 #### Contributors
-[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@arjun024][@arjun024], [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey]
+[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@arjun024][@arjun024], [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey], [@TisVictress][@TisVictress]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi]
