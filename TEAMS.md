@@ -45,13 +45,13 @@
 ### Dependencies Team
 
 #### Maintainers
-[@sophiewigmore][@sophiewigmore], [@brayanhenao][@brayanhenao]
+[@sophiewigmore][@sophiewigmore], [@brayanhenao][@brayanhenao], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
 [@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak]
 
 #### Contributors
-[@thitch97][@thitch97], [@arjun024][@arjun024], [@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey]
+[@thitch97][@thitch97], [@arjun024][@arjun024], [@ForestEckhardt][@ForestEckhardt], [@joshuatcasey][@joshuatcasey]
 
 ---
 
