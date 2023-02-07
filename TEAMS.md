@@ -4,7 +4,7 @@
 
 > The Steering Committee Members are responsible for the direction of the project (roadmap), subteam leadership, the spec, and cross-cutting concerns
 
-[@dmikusa-pivotal][@dmikusa-pivotal], [@ekcasey][@ekcasey], [@ryanmoran][@ryanmoran]
+[@dmikusa][@dmikusa], [@ekcasey][@ekcasey], [@ryanmoran][@ryanmoran]
 
 ## Subteams
 
@@ -35,7 +35,7 @@
 [@kvedurmu][@kvedurmu], [@andymoe][@andymoe], [@fg-j][@fg-j]
 
 #### Contributors
-[@arjun024][@arjun024], [@dmikusa-pivotal][@dmikusa-pivotal], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore], [@robdimsdale][@robdimsdale]
+[@arjun024][@arjun024], [@dmikusa][@dmikusa], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi], [@dwillist][@dwillist]
@@ -71,7 +71,7 @@
 ### Java Team
 
 #### Maintainers
-[@dmikusa-pivotal][@dmikusa-pivotal], [@pivotal-david-osullivan][@pivotal-david-osullivan]
+[@dmikusa][@dmikusa-pivotal], [@pivotal-david-osullivan][@pivotal-david-osullivan]
 
 ##### Emeritus Members
 [@nebhale][@nebhale], [@twoseat][@twoseat], [@ekcasey][@ekcasey]
@@ -113,7 +113,7 @@
 [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore]
 
 ##### Emeritus Members
-[@dwillist][@dwillist], [@dmikusa-pivotal][@dmikusa-pivotal]
+[@dwillist][@dwillist], [@dmikusa][@dmikusa]
 
 #### Contributors
 [@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@arjun024][@arjun024], [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey], [@TisVictress][@TisVictress]
@@ -155,7 +155,7 @@
 ### Rust Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt], [@dmikusa-pivotal][@dmikusa-pivotal]
+[@ForestEckhardt][@ForestEckhardt], [@dmikusa][@dmikusa]
 
 ---
 
@@ -181,7 +181,7 @@
 [@joshzarrabi][@joshzarrabi]
 
 #### Contributors
-[@arjun024][@arjun024], [@dmikusa-pivotal][@dmikusa-pivotal], [@thitch97][@thitch97], [@phil9909][@phil9909]
+[@arjun024][@arjun024], [@dmikusa][@dmikusa], [@thitch97][@thitch97], [@phil9909][@phil9909]
 
 ##### Emeritus Members
 [@dwillist][@dwillist]
@@ -191,7 +191,7 @@
 ### Utilities Team
 
 #### Maintainers
-[@ryanmoran][@ryanmoran], [@ekcasey][@ekcasey], [@arjun024][@arjun024], [@thitch97][@thitch97], [@dmikusa-pivotal][@dmikusa-pivotal], [@pivotal-david-osullivan][@pivotal-david-osullivan], [@ForestEckhardt][@ForestEckhardt]
+[@ryanmoran][@ryanmoran], [@ekcasey][@ekcasey], [@arjun024][@arjun024], [@thitch97][@thitch97], [@dmikusa][@dmikusa], [@pivotal-david-osullivan][@pivotal-david-osullivan], [@ForestEckhardt][@ForestEckhardt]
 
 ##### Emeritus Members
 [@sophiewigmore][@sophiewigmore],
@@ -216,7 +216,7 @@
 [@andymoe]: https://github.com/andymoe
 [@arjun024]: https://github.com/arjun024
 [@brayanhenao]: https://github.com/brayanhenao
-[@dmikusa-pivotal]: https://github.com/dmikusa-pivotal
+[@dmikusa]: https://github.com/dmikusa
 [@dumez-k]: https://github.com/dumez-k
 [@dwillist]: https://github.com/dwillist
 [@ekcasey]: https://github.com/ekcasey
