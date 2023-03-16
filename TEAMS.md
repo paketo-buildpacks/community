@@ -100,7 +100,7 @@
 [@thitch97][@thitch97], [@ryanmoran][@ryanmoran], [@TisVictress][@TisVictress]
 
 #### Contributors
-[@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@AccraZed][@AccraZed], [@arjun024][@arjun024], [@c0d1ngm0nk3y][@c0d1ngm0nk3y]
+[@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@AccraZed][@AccraZed], [@arjun024][@arjun024], [@c0d1ngm0nk3y][@c0d1ngm0nk3y], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi], [@dwillist][@dwillist]
