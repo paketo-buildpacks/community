@@ -76,6 +76,9 @@
 ##### Emeritus Members
 [@nebhale][@nebhale], [@twoseat][@twoseat], [@ekcasey][@ekcasey]
 
+#### Contributors
+[@modulo11][@modulo11], [@anthonydahanne][@anthonydahanne]
+
 ---
 
 ### .NET Core Team
@@ -214,6 +217,7 @@
 
 [@AccraZed]: https://github.com/AccraZed
 [@andymoe]: https://github.com/andymoe
+[@anthonydahanne]: https://github.com/anthonydahanne
 [@arjun024]: https://github.com/arjun024
 [@brayanhenao]: https://github.com/brayanhenao
 [@dmikusa]: https://github.com/dmikusa
@@ -229,6 +233,7 @@
 [@kvedurmu]: https://github.com/kvedurmu
 [@martyspiewak]: https://github.com/martyspiewak
 [@mdelillo]: https://github.com/mdelillo
+[@modulo11]: https://github.com/modulo11
 [@nebhale]: https://github.com/nebhale
 [@phil9909]: https://github.com/phil9909
 [@pivotal-david-osullivan]: https://github.com/pivotal-david-osullivan
