@@ -200,10 +200,10 @@
 ### Utilities Team
 
 #### Maintainers
-[@ryanmoran][@ryanmoran], [@ekcasey][@ekcasey], [@arjun024][@arjun024], [@thitch97][@thitch97], [@dmikusa][@dmikusa], [@pivotal-david-osullivan][@pivotal-david-osullivan], [@ForestEckhardt][@ForestEckhardt]
+[@ryanmoran][@ryanmoran], [@arjun024][@arjun024], [@thitch97][@thitch97], [@dmikusa][@dmikusa], [@pivotal-david-osullivan][@pivotal-david-osullivan], [@ForestEckhardt][@ForestEckhardt]
 
 ##### Emeritus Members
-[@sophiewigmore][@sophiewigmore]
+[@sophiewigmore][@sophiewigmore], [@ekcasey][@ekcasey]
 
 #### Contributors
 [@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@sophiewigmore][@sophiewigmore]
