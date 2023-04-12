@@ -58,7 +58,10 @@
 ### Go Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt], [@ryanmoran][@ryanmoran], [@fg-j][@fg-j]
+[@ForestEckhardt][@ForestEckhardt], [@ryanmoran][@ryanmoran]
+
+##### Emeritus Members
+[@fg-j][@fg-j]
 
 #### Contributors
 [@arjun024][@arjun024], [@thitch97][@thitch97], [@genevieve][@genevieve], [@sophiewigmore][@sophiewigmore], [@TisVictress][@TisVictress], [@robdimsdale][@robdimsdale]
@@ -84,10 +87,10 @@
 ### .NET Core Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@sophiewigmore][@sophiewigmore]
+[@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore]
 
 ##### Emeritus Members
-[@joshzarrabi][@joshzarrabi]
+[@joshzarrabi][@joshzarrabi], [@fg-j][@fg-j]
 
 #### Contributors
 [@ryanmoran][@ryanmoran], [@arjun024][@arjun024], [@thitch97][@thitch97], [@joshuatcasey][@joshuatcasey]
@@ -197,10 +200,10 @@
 [@ryanmoran][@ryanmoran], [@ekcasey][@ekcasey], [@arjun024][@arjun024], [@thitch97][@thitch97], [@dmikusa][@dmikusa], [@pivotal-david-osullivan][@pivotal-david-osullivan], [@ForestEckhardt][@ForestEckhardt]
 
 ##### Emeritus Members
-[@sophiewigmore][@sophiewigmore],
+[@sophiewigmore][@sophiewigmore]
 
 #### Contributors
-[@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@sophiewigmore][@sophiewigmore],
+[@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@sophiewigmore][@sophiewigmore]
 
 ##### Emeritus Members
 [@twoseat][@twoseat], [@nebhale][@nebhale]
