@@ -6,6 +6,9 @@
 
 [@dmikusa][@dmikusa], [@ForestEckhardt][@ForestEckhardt]
 
+### Emeritus Members
+[@ekcasey][@ekcasey], [@ryanmoran][@ryanmoran]
+
 ## Subteams
 
 > Subteams are responsible for maintaining some set of repositories under the `paketo-buildpacks` org. A natural split is into "Language Teams" responsible for maintaining all buildpack & specification changes that pertain to a particular language ecosystem.
