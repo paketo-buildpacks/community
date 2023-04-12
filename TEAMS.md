@@ -22,10 +22,10 @@
 [@ekcasey][@ekcasey], [@dumez-k][@dumez-k], [@fg-j][@fg-j]
 
 #### Contributors
-[@nebhale][@nebhale], [@ryanmoran][@ryanmoran], [@arjun024][@arjun024], [@twoseat][@twoseat], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore], [@martyspiewak][@martyspiewak]
+[@ryanmoran][@ryanmoran], [@arjun024][@arjun024], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore]
 
 ##### Emeritus Members
-[@joshzarrabi][@joshzarrabi], [@mdelillo][@mdelillo]
+[@joshzarrabi][@joshzarrabi], [@mdelillo][@mdelillo], [@nebhale][@nebhale], [@twoseat][@twoseat], [@martyspiewak][@martyspiewak]
 
 ---
 
