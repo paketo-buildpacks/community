@@ -184,10 +184,10 @@
 ### Tooling Team
 
 #### Maintainers
-[@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore], [@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@robdimsdale][@robdimsdale]
+[@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore], [@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
-[@joshzarrabi][@joshzarrabi]
+[@joshzarrabi][@joshzarrabi], [@fg-j][@fg-j]
 
 #### Contributors
 [@arjun024][@arjun024], [@dmikusa][@dmikusa], [@thitch97][@thitch97], [@phil9909][@phil9909]
