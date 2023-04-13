@@ -61,13 +61,13 @@
 ### Go Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt], [@ryanmoran][@ryanmoran]
+[@ForestEckhardt][@ForestEckhardt], [@ryanmoran][@ryanmoran], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
 [@fg-j][@fg-j]
 
 #### Contributors
-[@arjun024][@arjun024], [@thitch97][@thitch97], [@genevieve][@genevieve], [@sophiewigmore][@sophiewigmore], [@TisVictress][@TisVictress], [@robdimsdale][@robdimsdale]
+[@arjun024][@arjun024], [@thitch97][@thitch97], [@genevieve][@genevieve], [@sophiewigmore][@sophiewigmore], [@TisVictress][@TisVictress]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi], [@dwillist][@dwillist]
