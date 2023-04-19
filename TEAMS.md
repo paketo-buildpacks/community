@@ -119,13 +119,13 @@
 ### PHP Team
 
 #### Maintainers
-[@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore]
+[@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore], [@arjun024][@arjun024]
 
 ##### Emeritus Members
 [@dwillist][@dwillist], [@dmikusa][@dmikusa]
 
 #### Contributors
-[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@arjun024][@arjun024], [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey], [@TisVictress][@TisVictress]
+[@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey], [@TisVictress][@TisVictress]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi]
