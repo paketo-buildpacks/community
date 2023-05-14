@@ -118,8 +118,7 @@ The following table lists the roles we use within the Paketo community. The tabl
         <p>Vote on governace, role, RFCs, and other project-wide changes</p>
     </td>
     <td>
-        <p>Must be an existing maintainer</p>
-        <p>Highly active maintainer and participant in multiple functional areas</p>
+        <p>Is voted into the role. See [Steering Committee](./STEERING.md)</p>
     </td>
     <td>
         <p>Org-wide permissions</p>
@@ -146,12 +145,15 @@ New maintainers must already be contributors, must be nominated by an existing m
 In extenuating circumstances, i.e. long term absence of a maintainer, steering committee members may act as maintainers of any team in a voting capacity.
 
 #### Steering Committee
+
 The Steering Committee Members are responsible for the direction of the project (roadmap), subteam leadership, the spec, and cross-cutting concerns such as:
+
 - Voting on repo's being added to this org along with affected Maintainers
 - Voting on role changes (eg adding new Steering Committee member)
 - Voting on updating this document
 - Voting on RFCs that impact any of the above responsibilities.
 
+For more information on the [Steering Committee see here](./STEERING.md)
 
 #### Definitions:
 
