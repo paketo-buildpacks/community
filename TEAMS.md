@@ -77,13 +77,13 @@
 ### Java Team
 
 #### Maintainers
-[@dmikusa][@dmikusa], [@pivotal-david-osullivan][@pivotal-david-osullivan]
+[@dmikusa][@dmikusa], [@pivotal-david-osullivan][@pivotal-david-osullivan], [@anthonydahanne][@anthonydahanne]
 
 ##### Emeritus Members
 [@nebhale][@nebhale], [@twoseat][@twoseat], [@ekcasey][@ekcasey]
 
 #### Contributors
-[@modulo11][@modulo11], [@anthonydahanne][@anthonydahanne]
+[@modulo11][@modulo11]
 
 ---
 
