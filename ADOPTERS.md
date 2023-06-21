@@ -14,7 +14,7 @@ Below is a list of organizations and projects that have publicly adopted Paketo 
 | [Knative](https://knative.dev/) | Paketo buildpacks serve as the default method of converting a Knative function into an OCI container for deployment. The [func CLI](https://github.com/knative-sandbox/kn-plugin-func) uses the pack Go library to programatically invoke a build, potentially applying additional buildpacks when doing so. |
 | [Porter](https://docs.porter.run/deploying-applications/deploying-from-github/selecting-application-and-build-method/#customizing-buildpacks)|Porter supports Paketo buildpacks as an option for users to build and deploy their applications on Kubernetes without having to manually containerize them|
 | [Randoli](https://randoli.ca/app-director/) | Randoli's App Director users can choose Paketo buildpacks to containerize their applications and then deploy them to any Kubernetes cluster straight from the UI |
-
+| [Vmware](https://hello-tanzu.vmware.com/getting-started-with-tap-devsecops-path-to-prod/) | VMware uses Paketo-based buildpacks as the build phase implementation in several modern application platforms, including Tanzu Application Platform. |
 
 ## Adding your organization to the list of Paketo Buildpacks Adopters
 There are two ways to do so:
