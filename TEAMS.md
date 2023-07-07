@@ -83,7 +83,7 @@
 [@nebhale][@nebhale], [@twoseat][@twoseat], [@ekcasey][@ekcasey]
 
 #### Contributors
-[@modulo11][@modulo11]
+[@modulo11][@modulo11], [@c0d1ngm0nk3y][@c0d1ngm0nk3y]
 
 ---
 
