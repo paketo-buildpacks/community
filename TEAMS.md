@@ -252,3 +252,4 @@
 [@twoseat]: https://github.com/twoseat
 [@c0d1ngm0nk3y]: https://github.com/c0d1ngm0nk3y
 [@loewenstein]: https://github.com/loewenstein
+[@jericop]: https://github.com/jericop
