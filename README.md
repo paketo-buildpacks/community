@@ -17,9 +17,9 @@ Working group meetings are a great place to more directly communicate with other
 This working group is to discuss active [RFCs](https://github.com/paketo-buildpacks/rfcs) and relay general project information. It covers all of the Paketo project and is a good place to start with new requests.
 *   When: 60 minutes, alternating weekly at Tuesday at 18:00 UTC and Wednesday at 15:00 UTC
 *   Where: [Zoom bridge](https://zoom.us/j/99479390622?pwd=VVlkdTJGV1lxZ1pycTZKcCtPNENWZz09)
-*   Agenda and minutes: [Google doc](https://docs.google.com/document/d/1V1jtZmjpivMsWdoYOrGlaK4exoIezn2r4Lf3XcPxduQ/edit?usp=sharing)
-*  Subscribe to the [public calendar](https://lists.paketo.io/g/main/ics/11180210/825925082/feed.ics)
-*   Previous meetings: [[notes](https://docs.google.com/document/d/1V1jtZmjpivMsWdoYOrGlaK4exoIezn2r4Lf3XcPxduQ/view) | [recordings](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)]
+*   Agenda and minutes: [Google doc](https://docs.google.com/document/d/1s-c7PrFkteRRMMPrrVrPx85CwMArdJLMZxNQLq8_mO8/edit?usp=sharing)
+*   Subscribe to the [public calendar](https://lists.paketo.io/g/main/ics/11180210/825925082/feed.ics)
+*   Previous meetings: [[notes](https://docs.google.com/document/d/1s-c7PrFkteRRMMPrrVrPx85CwMArdJLMZxNQLq8_mO8/edit?usp=sharing) | [recordings](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)]
 
 
 
@@ -29,7 +29,7 @@ This working groups is focused on Java related developments for Paketo buildpack
 
 * When: monthly on the third Tuesdays at 9:30AM EST/EDT
 * Where: [Zoom](https://zoom.us/j/98553337551?pwd=N3JWczhiVy9aQ3pZUFBSNmJPM1FFZz09)
-* Previous meetings: [[notes](https://docs.google.com/document/d/1lmHtS_LVsmtkNOiT-wWmV03V8PO1YZ0roNqLZPATOmQ/edit?usp=sharing)| [recordings](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)]
+* Previous meetings: [[notes](https://docs.google.com/document/d/1s-c7PrFkteRRMMPrrVrPx85CwMArdJLMZxNQLq8_mO8/edit?usp=sharing)| [recordings](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)]
 
 ## Asynchronous communication
 
