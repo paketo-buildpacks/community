@@ -106,7 +106,7 @@
 ### Node.js Team
 
 #### Maintainers
-[@thitch97][@thitch97], [@ryanmoran][@ryanmoran], [@TisVictress][@TisVictress]
+[@thitch97][@thitch97], [@ryanmoran][@ryanmoran], [@TisVictress][@TisVictress], [@mhdawson][@mhdawson], [@pacostas][@pacostas]
 
 #### Contributors
 [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@AccraZed][@AccraZed], [@arjun024][@arjun024], [@c0d1ngm0nk3y][@c0d1ngm0nk3y], [@robdimsdale][@robdimsdale]
@@ -252,3 +252,5 @@
 [@twoseat]: https://github.com/twoseat
 [@c0d1ngm0nk3y]: https://github.com/c0d1ngm0nk3y
 [@loewenstein]: https://github.com/loewenstein
+[@mhdawson]: https://github.com/mhdawson
+[@pacostas]: https://github.com/pacostas
