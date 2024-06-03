@@ -31,6 +31,8 @@ This working groups is focused on Java related developments for Paketo buildpack
 
 * When: monthly on the third Tuesdays at 9:30AM EST/EDT
 * Where: [Zoom](https://zoom.us/j/98553337551?pwd=N3JWczhiVy9aQ3pZUFBSNmJPM1FFZz09)
+* Agenda and minutes: [Google Doc](https://docs.google.com/document/d/1Zo0tGqwzlnS-7RiFMbw8JnUOFFKjAdpcCVELUDX_KWo/edit)
+* Subscribe to the [public calendar](https://lists.paketo.io/g/main/attachment/60/1/invite.ics)
 * Previous meetings: [[notes](https://docs.google.com/document/d/1s-c7PrFkteRRMMPrrVrPx85CwMArdJLMZxNQLq8_mO8/edit?usp=sharing)| [recordings](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)]
 
 ## Asynchronous communication
