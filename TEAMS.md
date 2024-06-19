@@ -16,7 +16,7 @@
 ### Builders Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale]
+[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale], [@mhdawson][@mhdawson]
 
 ##### Emeritus Members
 [@ekcasey][@ekcasey], [@dumez-k][@dumez-k], [@fg-j][@fg-j]
@@ -171,7 +171,7 @@
 ### Stacks Team
 
 #### Maintainers
-[@brayanhenao][@brayanhenao], [@sophiewigmore][@sophiewigmore], [@robdimsdale][@robdimsdale]
+[@brayanhenao][@brayanhenao], [@sophiewigmore][@sophiewigmore], [@robdimsdale][@robdimsdale], [@mhdawson][@mhdawson]
 
 ##### Emeritus Members
 [@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak]
