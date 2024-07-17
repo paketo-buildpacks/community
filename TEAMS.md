@@ -222,7 +222,7 @@ None
 [@sophiewigmore][@sophiewigmore], [@ekcasey][@ekcasey], [@ryanmoran][@ryanmoran]
 
 #### Contributors
-[@sophiewigmore][@sophiewigmore]
+[@sophiewigmore][@sophiewigmore], [@anthonydahanne][@anthonydahanne]
 
 ##### Emeritus Members
 [@twoseat][@twoseat], [@nebhale][@nebhale], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson]
