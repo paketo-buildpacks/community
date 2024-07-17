@@ -13,6 +13,22 @@
 
 > Subteams are responsible for maintaining some set of repositories under the `paketo-buildpacks` org. A natural split is into "Language Teams" responsible for maintaining all buildpack & specification changes that pertain to a particular language ecosystem.
 
+### App Monitoring Team
+
+#### Maintainers
+[@dmikusa][@dmikusa], [@anthonydahanne][@anthonydahanne], [@joshuatcasey][@joshuatcasey], [@pivotal-david-osullivan][@pivotal-david-osullivan]
+
+##### Emeritus Members
+None
+
+#### Contributors
+None
+
+##### Emeritus Members
+None
+
+---
+
 ### Builders Team
 
 #### Maintainers
@@ -206,7 +222,7 @@
 [@sophiewigmore][@sophiewigmore], [@ekcasey][@ekcasey], [@ryanmoran][@ryanmoran]
 
 #### Contributors
-[@sophiewigmore][@sophiewigmore]
+[@sophiewigmore][@sophiewigmore], [@anthonydahanne][@anthonydahanne]
 
 ##### Emeritus Members
 [@twoseat][@twoseat], [@nebhale][@nebhale], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson]
