@@ -35,6 +35,15 @@ This working groups is focused on Java related developments for Paketo buildpack
 * Subscribe to the [public calendar](https://lists.paketo.io/g/main/attachment/60/1/invite.ics)
 * Previous meetings: [[notes](https://docs.google.com/document/d/1s-c7PrFkteRRMMPrrVrPx85CwMArdJLMZxNQLq8_mO8/edit?usp=sharing)| [recordings](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)]
 
+### 3.  Paketo Node.js Subteam Working Group Meeting
+
+This working groups is focused on Node.js related developments for Paketo buildpacks. It is to discuss project direction, status of open issues/pull-requests and to request features or provide feedback on the Node.js related buildpacks.
+
+* When: every other Thursday at 9:00AM EST/EDT
+* Where: TBD - zoom link
+* Agenda and minutes: TBD - google doc
+* Previous meetings: TBD, notes and recording
+
 ## Asynchronous communication
 
 ### Slack
