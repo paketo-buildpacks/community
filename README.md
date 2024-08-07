@@ -39,10 +39,10 @@ This working groups is focused on Java related developments for Paketo buildpack
 
 This working groups is focused on Node.js related developments for Paketo buildpacks. It is to discuss project direction, status of open issues/pull-requests and to request features or provide feedback on the Node.js related buildpacks.
 
-* When: every other Thursday at 9:00AM EST/EDT
-* Where: TBD - zoom link
-* Agenda and minutes: TBD - google doc
-* Previous meetings: TBD, notes and recording
+* When: alternate Thursdays at 9:00AM EST/EDT
+* Where: [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/99748840228?password=e89f9435-c8c2-42ab-b01b-58b823ca4cec)
+* Agenda and minutes: [Google Doc](https://docs.google.com/document/d/18eXMwMKcK8d7qK_sAjs2KMl4EJe6NImCOk5hplNKf4g/edit)
+* Previous meetings: [recordings](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)
 
 ## Asynchronous communication
 
