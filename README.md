@@ -42,6 +42,7 @@ This working groups is focused on Node.js related developments for Paketo buildp
 * When: alternate Thursdays at 9:00AM EST/EDT
 * Where: [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/99748840228?password=e89f9435-c8c2-42ab-b01b-58b823ca4cec)
 * Agenda and minutes: [Google Doc](https://docs.google.com/document/d/18eXMwMKcK8d7qK_sAjs2KMl4EJe6NImCOk5hplNKf4g/edit)
+* Subscribe to the [public calendar](https://lists.paketo.io/g/main/ics/invite.ics?repeatid=60893)
 * Previous meetings: [recordings](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)
 
 ## Asynchronous communication
