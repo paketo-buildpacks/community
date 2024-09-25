@@ -83,10 +83,10 @@ None
 [@ryanmoran][@ryanmoran], [@fg-j][@fg-j]
 
 #### Contributors
-[@arjun024][@arjun024], [@thitch97][@thitch97], [@genevieve][@genevieve], [@sophiewigmore][@sophiewigmore], [@TisVictress][@TisVictress]
+[@arjun024][@arjun024], [@thitch97][@thitch97], [@genevieve][@genevieve], [@sophiewigmore][@sophiewigmore]
 
 ##### Emeritus Members
-[@joshzarrabi][@joshzarrabi], [@dwillist][@dwillist]
+[@joshzarrabi][@joshzarrabi], [@dwillist][@dwillist], [@TisVictress][@TisVictress]
 
 ---
 
@@ -122,10 +122,10 @@ None
 ### Node.js Team
 
 #### Maintainers
-[@thitch97][@thitch97], [@TisVictress][@TisVictress], [@mhdawson][@mhdawson], [@pacostas][@pacostas]
+[@thitch97][@thitch97], [@mhdawson][@mhdawson], [@pacostas][@pacostas]
 
 ##### Emeritus Members
-[@ryanmoran][@ryanmoran]
+[@TisVictress][@TisVictress], [@ryanmoran][@ryanmoran]
 
 #### Contributors
 [@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@AccraZed][@AccraZed], [@arjun024][@arjun024], [@c0d1ngm0nk3y][@c0d1ngm0nk3y], [@robdimsdale][@robdimsdale]
@@ -144,10 +144,10 @@ None
 [@dwillist][@dwillist], [@dmikusa][@dmikusa], [@sophiewigmore][@sophiewigmore]
 
 #### Contributors
-[@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey], [@TisVictress][@TisVictress]
+[@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey]
 
 ##### Emeritus Members
-[@ryanmoran][@ryanmoran], [@joshzarrabi][@joshzarrabi]
+[@ryanmoran][@ryanmoran], [@joshzarrabi][@joshzarrabi], [@TisVictress][@TisVictress]
 
 ---
 
@@ -160,10 +160,10 @@ None
 [@joshzarrabi][@joshzarrabi]
 
 #### Contributors
-[@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@emmjohnson][@emmjohnson], [@arjun024][@arjun024], [@TisVictress][@TisVictress]
+[@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@emmjohnson][@emmjohnson], [@arjun024][@arjun024]
 
 ##### Emeritus Members
-[@ryanmoran][@ryanmoran], [@dwillist][@dwillist]
+[@ryanmoran][@ryanmoran], [@dwillist][@dwillist], [@TisVictress][@TisVictress]
 
 ---
 
@@ -241,7 +241,10 @@ None
 ### Web Servers Team
 
 #### Maintainers
-[@arjun024][@arjun024], [@thitch97][@thitch97], [@ForestEckhardt][@ForestEckhardt], [@TisVictress][@TisVictress]
+[@arjun024][@arjun024], [@thitch97][@thitch97], [@ForestEckhardt][@ForestEckhardt]
+
+##### Emeritus Members
+[@TisVictress][@TisVictress]
 
 #### Contributors
 [@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@robdimsdale][@robdimsdale]
