@@ -38,7 +38,7 @@ None
 [@ekcasey][@ekcasey], [@dumez-k][@dumez-k], [@fg-j][@fg-j]
 
 #### Contributors
-[@arjun024][@arjun024], [@thitch97][@thitch97], [@jericop][@jericop], [@sophiewigmore][@sophiewigmore]
+[@arjun024][@arjun024], [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore], [@jericop][@jericop]
 
 ##### Emeritus Members
 [@ryanmoran][@ryanmoran], [@joshzarrabi][@joshzarrabi], [@mdelillo][@mdelillo], [@nebhale][@nebhale], [@twoseat][@twoseat], [@martyspiewak][@martyspiewak]
