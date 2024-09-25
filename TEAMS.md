@@ -209,10 +209,10 @@ None
 [@joshzarrabi][@joshzarrabi], [@fg-j][@fg-j], [@sophiewigmore][@sophiewigmore]
 
 #### Contributors
-[@arjun024][@arjun024], [@dmikusa][@dmikusa], [@thitch97][@thitch97], [@phil9909][@phil9909]
+[@arjun024][@arjun024], [@dmikusa][@dmikusa], [@thitch97][@thitch97]
 
 ##### Emeritus Members
-[@dwillist][@dwillist]
+[@phil9909][@phil9909], [@dwillist][@dwillist]
 
 ---
 
