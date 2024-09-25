@@ -128,10 +128,10 @@ None
 [@TisVictress][@TisVictress], [@ryanmoran][@ryanmoran]
 
 #### Contributors
-[@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@emmjohnson][@emmjohnson], [@AccraZed][@AccraZed], [@arjun024][@arjun024], [@c0d1ngm0nk3y][@c0d1ngm0nk3y], [@robdimsdale][@robdimsdale]
+[@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@emmjohnson][@emmjohnson], [@AccraZed][@AccraZed], [@arjun024][@arjun024], [@c0d1ngm0nk3y][@c0d1ngm0nk3y], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
-[@joshzarrabi][@joshzarrabi], [@dwillist][@dwillist]
+[@fg-j][@fg-j], [@joshzarrabi][@joshzarrabi], [@dwillist][@dwillist]
 
 ---
 
@@ -144,10 +144,11 @@ None
 [@dwillist][@dwillist], [@dmikusa][@dmikusa], [@sophiewigmore][@sophiewigmore]
 
 #### Contributors
-[@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j], [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey]
+[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey]
 
 ##### Emeritus Members
-[@ryanmoran][@ryanmoran], [@joshzarrabi][@joshzarrabi], [@TisVictress][@TisVictress]
+[@fg-j][@fg-j], [@ryanmoran][@ryanmoran], [@joshzarrabi][@joshzarrabi], [@TisVictress][@TisVictress]
+
 
 ---
 
@@ -176,10 +177,10 @@ None
 [@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore]
 
 #### Contributors
-[@arjun024][@arjun024], [@thitch97][@thitch97], [@genevieve][@genevieve] [@ForestEckhardt][@ForestEckhardt], [@fg-j][@fg-j]
+[@arjun024][@arjun024], [@thitch97][@thitch97], [@genevieve][@genevieve] [@ForestEckhardt][@ForestEckhardt]
 
 ##### Emeritus Members
-[@joshzarrabi][@joshzarrabi]
+[@joshzarrabi][@joshzarrabi], [@fg-j][@fg-j]
 
 ---
 
@@ -199,10 +200,10 @@ None
 [@brayanhenao][@brayanhenao], [@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak], [@sophiewigmore][@sophiewigmore]
 
 #### Contributors
-[@arjun024][@arjun024], [@fg-j][@fg-j], [@jericop][@jericop]
+[@arjun024][@arjun024], [@jericop][@jericop]
 
 ##### Emeritus Members
-[@ryanmoran][@ryanmoran]
+[@fg-j][@fg-j], [@ryanmoran][@ryanmoran]
 
 ---
 
@@ -247,10 +248,10 @@ None
 [@TisVictress][@TisVictress]
 
 #### Contributors
-[@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore], [@fg-j][@fg-j], [@robdimsdale][@robdimsdale]
+[@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
-[@ryanmoran][@ryanmoran]
+[@fg-j][@fg-j], [@ryanmoran][@ryanmoran]
 
 
 [@AccraZed]: https://github.com/AccraZed
