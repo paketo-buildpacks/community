@@ -248,13 +248,13 @@ None
 [@arjun024][@arjun024], [@ForestEckhardt][@ForestEckhardt]
 
 ##### Emeritus Members
-[@thitch97][@thitch97]
+[@thitch97][@thitch97], [@TisVictress][@TisVictress]
 
 #### Contributors
 [@sophiewigmore][@sophiewigmore], [@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
-[@fg-j][@fg-j], [@ryanmoran][@ryanmoran], [@TisVictress][@TisVictress]
+[@fg-j][@fg-j], [@ryanmoran][@ryanmoran]
 
 
 [@AccraZed]: https://github.com/AccraZed
