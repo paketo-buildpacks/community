@@ -64,10 +64,10 @@ None
 ### Dependencies Team
 
 #### Maintainers
-[@brayanhenao][@brayanhenao], [@robdimsdale][@robdimsdale]
+[@robdimsdale][@robdimsdale]
 
 ##### Emeritus Members
-[@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak], [@sophiewigmore][@sophiewigmore]
+[@brayanhenao][@brayanhenao], [@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak], [@sophiewigmore][@sophiewigmore]
 
 #### Contributors
 [@thitch97][@thitch97], [@arjun024][@arjun024], [@ForestEckhardt][@ForestEckhardt], [@joshuatcasey][@joshuatcasey]
@@ -193,10 +193,10 @@ None
 ### Stacks Team
 
 #### Maintainers
-[@brayanhenao][@brayanhenao], [@robdimsdale][@robdimsdale], [@mhdawson][@mhdawson]
+[@robdimsdale][@robdimsdale], [@mhdawson][@mhdawson]
 
 ##### Emeritus Members
-[@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak], [@sophiewigmore][@sophiewigmore]
+[@brayanhenao][@brayanhenao], [@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak], [@sophiewigmore][@sophiewigmore]
 
 #### Contributors
 [@arjun024][@arjun024], [@fg-j][@fg-j], [@jericop][@jericop]
