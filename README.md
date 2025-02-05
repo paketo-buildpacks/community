@@ -17,8 +17,8 @@ Working group meetings are a great place to more directly communicate with other
 This working group is to discuss active [RFCs](https://github.com/paketo-buildpacks/rfcs) and relay general project information. It covers all of the Paketo project and is a good place to start with new requests.
 *   When: 60 minutes, alternating weekly at Tuesday at 18:00 UTC and Wednesday at 15:00 UTC
 *   Where:
-    - [Tuesday meetings' Zoom bridge](https://zoom.us/j/92759218326?pwd=YXZDcFEwSWFxYmM5ZlVMSVVuYkppdz09)
-    - [Wednesday meetings' Zoom bridge](https://zoom.us/j/99797496274?pwd=dTZ2WVc4MWdLdzNWZTVRdUhCQWFOdz09)
+    - [Tuesday meetings' Zoom bridge](https://zoom-lfx.platform.linuxfoundation.org/meeting/92311815319?password=89a788a6-0ccc-4b48-8713-b9630f037a22)
+    - [Wednesday meetings' Zoom bridge](https://zoom-lfx.platform.linuxfoundation.org/meeting/94250502436?password=071d3ba3-6a7b-4f44-8f79-d8baf394a411)
 *   Agenda and minutes: [Google doc](https://docs.google.com/document/d/1s-c7PrFkteRRMMPrrVrPx85CwMArdJLMZxNQLq8_mO8/edit?usp=sharing)
 *   Subscribe to the [public calendar](https://lists.paketo.io/g/main/ics/11180210/825925082/feed.ics)
 *   Previous meetings: [[notes](https://docs.google.com/document/d/1s-c7PrFkteRRMMPrrVrPx85CwMArdJLMZxNQLq8_mO8/edit?usp=sharing) | [recordings](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)]
@@ -30,7 +30,7 @@ This working group is to discuss active [RFCs](https://github.com/paketo-buildpa
 This working groups is focused on Java related developments for Paketo buildpacks. It is to discuss [open Java subteam RFCs](https://github.com/paketo-buildpacks/rfcs/pulls?q=is%3Apr+is%3Aopen+label%3Ateam%2Fjava+), as well as project direction, status of open issues/pull-requests and to request features or provide feedback on the Java related buildpacks.
 
 * When: monthly on the third Tuesdays at 9:30AM EST/EDT
-* Where: [Zoom](https://zoom.us/j/98553337551?pwd=N3JWczhiVy9aQ3pZUFBSNmJPM1FFZz09)
+* Where: [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/97285274754?password=ec96257f-8efa-40be-aed4-7336d92326b3)
 * Agenda and minutes: [Google Doc](https://docs.google.com/document/d/1Zo0tGqwzlnS-7RiFMbw8JnUOFFKjAdpcCVELUDX_KWo/edit)
 * Subscribe to the [public calendar](https://lists.paketo.io/g/main/attachment/60/1/invite.ics)
 * Previous meetings: [[notes](https://docs.google.com/document/d/1s-c7PrFkteRRMMPrrVrPx85CwMArdJLMZxNQLq8_mO8/edit?usp=sharing)| [recordings](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)]
