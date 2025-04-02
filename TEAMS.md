@@ -32,13 +32,13 @@ None
 ### Builders Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale], [@mhdawson][@mhdawson]
+[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale], [@mhdawson][@mhdawson], [@jericop][@jericop]
 
 ##### Emeritus Members
 [@ekcasey][@ekcasey], [@dumez-k][@dumez-k], [@fg-j][@fg-j]
 
 #### Contributors
-[@arjun024][@arjun024], [@sophiewigmore][@sophiewigmore], [@jericop][@jericop]
+[@arjun024][@arjun024], [@sophiewigmore][@sophiewigmore]
 
 ##### Emeritus Members
 [@thitch97][@thitch97], [@ryanmoran][@ryanmoran], [@joshzarrabi][@joshzarrabi], [@mdelillo][@mdelillo], [@nebhale][@nebhale], [@twoseat][@twoseat], [@martyspiewak][@martyspiewak]
@@ -80,7 +80,7 @@ None
 ### Go Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale]
+[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale], [@jericop][@jericop]
 
 ##### Emeritus Members
 [@ryanmoran][@ryanmoran], [@fg-j][@fg-j]
@@ -96,7 +96,7 @@ None
 ### Java Team
 
 #### Maintainers
-[@dmikusa][@dmikusa], [@pivotal-david-osullivan][@pivotal-david-osullivan], [@anthonydahanne][@anthonydahanne]
+[@dmikusa][@dmikusa], [@pivotal-david-osullivan][@pivotal-david-osullivan], [@anthonydahanne][@anthonydahanne], [@jericop][@jericop]
 
 ##### Emeritus Members
 [@nebhale][@nebhale], [@twoseat][@twoseat], [@ekcasey][@ekcasey]
@@ -158,7 +158,7 @@ None
 ### Python Team
 
 #### Maintainers
- [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey]
+ [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey], [@jericop][@jericop]
 
 ##### Emeritus Members
 [@thitch97][@thitch97],[@joshzarrabi][@joshzarrabi]
@@ -197,13 +197,13 @@ None
 ### Stacks Team
 
 #### Maintainers
-[@robdimsdale][@robdimsdale], [@mhdawson][@mhdawson]
+[@robdimsdale][@robdimsdale], [@mhdawson][@mhdawson], [@jericop][@jericop], [@pacostas][@pacostas]
 
 ##### Emeritus Members
 [@brayanhenao][@brayanhenao], [@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak], [@sophiewigmore][@sophiewigmore]
 
 #### Contributors
-[@arjun024][@arjun024], [@jericop][@jericop]
+[@arjun024][@arjun024]
 
 ##### Emeritus Members
 [@fg-j][@fg-j], [@ryanmoran][@ryanmoran]
@@ -213,7 +213,7 @@ None
 ### Tooling Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale]
+[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale], [@jericop][@jericop]
 
 ##### Emeritus Members
 [@ryanmoran][@ryanmoran], [@joshzarrabi][@joshzarrabi], [@fg-j][@fg-j], [@sophiewigmore][@sophiewigmore]
@@ -229,7 +229,7 @@ None
 ### Utilities Team
 
 #### Maintainers
-[@arjun024][@arjun024], [@dmikusa][@dmikusa], [@pivotal-david-osullivan][@pivotal-david-osullivan], [@ForestEckhardt][@ForestEckhardt]
+[@arjun024][@arjun024], [@dmikusa][@dmikusa], [@pivotal-david-osullivan][@pivotal-david-osullivan], [@ForestEckhardt][@ForestEckhardt], [@jericop][@jericop]
 
 ##### Emeritus Members
 [@thitch97][@thitch97], [@sophiewigmore][@sophiewigmore], [@ekcasey][@ekcasey], [@ryanmoran][@ryanmoran]
@@ -262,6 +262,7 @@ None
 [@anthonydahanne]: https://github.com/anthonydahanne
 [@arjun024]: https://github.com/arjun024
 [@brayanhenao]: https://github.com/brayanhenao
+[@c0d1ngm0nk3y]: https://github.com/c0d1ngm0nk3y
 [@dmikusa]: https://github.com/dmikusa
 [@dumez-k]: https://github.com/dumez-k
 [@dwillist]: https://github.com/dwillist
@@ -270,13 +271,17 @@ None
 [@fg-j]: https://github.com/fg-j
 [@ForestEckhardt]: https://github.com/ForestEckhardt
 [@genevieve]: https://github.com/genevieve
+[@jericop]: https://github.com/jericop
 [@joshuatcasey]: https://github.com/joshuatcasey
 [@joshzarrabi]: https://github.com/joshzarrabi
 [@kvedurmu]: https://github.com/kvedurmu
+[@loewenstein]: https://github.com/loewenstein
 [@martyspiewak]: https://github.com/martyspiewak
 [@mdelillo]: https://github.com/mdelillo
+[@mhdawson]: https://github.com/mhdawson
 [@modulo11]: https://github.com/modulo11
 [@nebhale]: https://github.com/nebhale
+[@pacostas]: https://github.com/pacostas
 [@phil9909]: https://github.com/phil9909
 [@pivotal-david-osullivan]: https://github.com/pivotal-david-osullivan
 [@robdimsdale]: https://github.com/robdimsdale
@@ -286,8 +291,3 @@ None
 [@thitch97]: https://github.com/thitch97
 [@TisVictress]: https://github.com/TisVictress
 [@twoseat]: https://github.com/twoseat
-[@c0d1ngm0nk3y]: https://github.com/c0d1ngm0nk3y
-[@loewenstein]: https://github.com/loewenstein
-[@jericop]: https://github.com/jericop
-[@mhdawson]: https://github.com/mhdawson
-[@pacostas]: https://github.com/pacostas
