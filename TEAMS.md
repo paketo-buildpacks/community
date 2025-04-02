@@ -281,6 +281,7 @@ None
 [@mhdawson]: https://github.com/mhdawson
 [@modulo11]: https://github.com/modulo11
 [@nebhale]: https://github.com/nebhale
+[@nicolasbender]: https://github.com/nicolasbender
 [@pacostas]: https://github.com/pacostas
 [@phil9909]: https://github.com/phil9909
 [@pivotal-david-osullivan]: https://github.com/pivotal-david-osullivan
