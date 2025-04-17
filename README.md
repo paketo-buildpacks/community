@@ -29,10 +29,10 @@ This working group is to discuss active [RFCs](https://github.com/paketo-buildpa
 
 This working groups is focused on Java related developments for Paketo buildpacks. It is to discuss [open Java subteam RFCs](https://github.com/paketo-buildpacks/rfcs/pulls?q=is%3Apr+is%3Aopen+label%3Ateam%2Fjava+), as well as project direction, status of open issues/pull-requests and to request features or provide feedback on the Java related buildpacks.
 
-* When: monthly on the third Tuesdays at 9:30AM EST/EDT
+* When: monthly on the third Tuesdays at 9:00AM EST/EDT
 * Where: [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/97285274754?password=ec96257f-8efa-40be-aed4-7336d92326b3)
 * Agenda and minutes: [Google Doc](https://docs.google.com/document/d/1Zo0tGqwzlnS-7RiFMbw8JnUOFFKjAdpcCVELUDX_KWo/edit)
-* Subscribe to the [public calendar](https://lists.paketo.io/g/main/attachment/60/1/invite.ics)
+* Subscribe to the [public calendar](TBD)
 * Previous meetings: [[notes](https://docs.google.com/document/d/1s-c7PrFkteRRMMPrrVrPx85CwMArdJLMZxNQLq8_mO8/edit?usp=sharing)| [recordings](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)]
 
 ### 3.  Paketo Node.js Subteam Working Group Meeting
