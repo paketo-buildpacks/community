@@ -64,7 +64,7 @@ None
 ### Dependencies Team
 
 #### Maintainers
-[@robdimsdale][@robdimsdale]
+[@robdimsdale][@robdimsdale], [@jericop][@jericop]
 
 ##### Emeritus Members
 [@brayanhenao][@brayanhenao], [@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak], [@sophiewigmore][@sophiewigmore]
