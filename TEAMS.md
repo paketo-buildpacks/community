@@ -245,7 +245,7 @@ None
 ### Web Servers Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt]
+[@ForestEckhardt][@ForestEckhardt], [@dmikusa][@dmikusa]
 
 ##### Emeritus Members
 [@thitch97][@thitch97], [@TisVictress][@TisVictress], [@arjun024][@arjun024]
