@@ -213,7 +213,7 @@ None
 ### Tooling Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale], [@jericop][@jericop], [@modulo11][@modulo11], [@nicolasbender][@nicolasbender]
+[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale], [@jericop][@jericop], [@modulo11][@modulo11], [@nicolasbender][@nicolasbender], [@pacostas][@pacostas]
 
 ##### Emeritus Members
 [@ryanmoran][@ryanmoran], [@joshzarrabi][@joshzarrabi], [@fg-j][@fg-j], [@sophiewigmore][@sophiewigmore]
