@@ -158,13 +158,13 @@ None
 ### Python Team
 
 #### Maintainers
- [@robdimsdale][@robdimsdale], [@jericop][@jericop]
+ [@robdimsdale][@robdimsdale], [@jericop][@jericop], [@sgaist][@sgaist]
 
 ##### Emeritus Members
 [@thitch97][@thitch97],[@joshzarrabi][@joshzarrabi], [@joshuatcasey][@joshuatcasey]
 
 #### Contributors
-[@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@arjun024][@arjun024], [@joshuatcasey][@joshuatcasey],
+[@ForestEckhardt][@ForestEckhardt], [@sophiewigmore][@sophiewigmore], [@arjun024][@arjun024], [@joshuatcasey][@joshuatcasey], [@TheSuperiorStanislav][@TheSuperiorStanislav]
 
 ##### Emeritus Members
 [@ryanmoran][@ryanmoran], [@dwillist][@dwillist], [@TisVictress][@TisVictress], [@emmjohnson][@emmjohnson]
