@@ -14,6 +14,7 @@ Below is a list of organizations and projects that have publicly announced their
 | [Greenhouse](https://github.com/grnhse) | Greenhouse uses the Paketo Python and NodeJS buildpacks to drive developer builds within our internal Platform as a Service. Switching to Paketo has been pretty seamless and saved us a ton of work. The support is great and we're able to supplement at times with small downstream buildpacks |
 | [Knative](https://knative.dev/) | Paketo buildpacks serve as the default method of converting a Knative function into an OCI container for deployment. The [func CLI](https://github.com/knative-sandbox/kn-plugin-func) uses the pack Go library to programatically invoke a build, potentially applying additional buildpacks when doing so. |
 | [Porter](https://docs.porter.run/deploying-applications/deploying-from-github/selecting-application-and-build-method/#customizing-buildpacks)| Porter supports Paketo buildpacks as an option for users to build and deploy their applications on Kubernetes without having to manually containerize them                                                             |
+| [Rapid7](https://www.rapid7.com) | Rapid7 uses paketo buildpacks to simplify and standardize container builds for a variety of languages such as java, golang, python, and nodejs. |
 
 
 ## Known adopters
