@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Groups.io Inc//Paketo Buildpacks Calendar//EN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+LAST-MODIFIED:20250410T142247Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+X-GIOIDS:Repeat:60893
+UID:VNfV.1724858380922126438.YIyB@lists.paketo.io
+DTSTAMP:20251009T165246Z
+ORGANIZER;CN=main@lists.paketo.io Group;SENT-BY="mailto:main@lists.paketo
+ .io":mailto:main@lists.paketo.io
+DTSTART;TZID=America/New_York:20240919T090000
+DTEND;TZID=America/New_York:20240919T093000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TH
+SUMMARY:Paketo Node.js Subteam Working Group Meeting
+DESCRIPTION:This working groups is focused on Node.js related development
+ s for Paketo buildpacks. It is to discuss project direction\, status of o
+ pen issues/pull-requests and to request features or provide feedback on t
+ he Node.js related buildpacks.\n\n*When* : alternate Thursdays at 9:00AM 
+ EST/EDT\n*Where* : https://zoom-lfx.platform.linuxfoundation.org/meeting/
+ 99748840228?password=e89f9435-c8c2-42ab-b01b-58b823ca4cec\n*Agenda and mi
+ nutes* : https://docs.google.com/document/d/18eXMwMKcK8d7qK_sAjs2KMl4EJe6
+ NImCOk5hplNKf4g/edit
+LOCATION:https://docs.google.com/document/d/18eXMwMKcK8d7qK_sAjs2KMl4EJe6
+ NImCOk5hplNKf4g/edit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Paketo Java Subteam Working Group Meeting
+TRIGGER:-PT10M
+END:VALARM
+SEQUENCE:417
+END:VEVENT
+END:VCALENDAR
