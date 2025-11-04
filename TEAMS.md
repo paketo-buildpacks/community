@@ -115,7 +115,7 @@ None
 [@joshzarrabi][@joshzarrabi], [@fg-j][@fg-j], [@sophiewigmore][@sophiewigmore]
 
 #### Contributors
-[@arjun024][@arjun024], [@joshuatcasey][@joshuatcasey]
+[@arjun024][@arjun024], [@joshuatcasey][@joshuatcasey], [@ZephireNZ][@ZephireNZ]
 
 ##### Emeritus Members
 [@thitch97][@thitch97], [@ryanmoran][@ryanmoran], [@dwillist][@dwillist]
@@ -294,3 +294,4 @@ None
 [@TheSuperiorStanislav]: https://github.com/TheSuperiorStanislav
 [@TisVictress]: https://github.com/TisVictress
 [@twoseat]: https://github.com/twoseat
+[@ZephireNZ]: https://github.com/ZephireNZ
