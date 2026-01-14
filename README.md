@@ -49,7 +49,7 @@ This working groups is focused on Node.js related developments for Paketo buildp
 
 ### Slack
 
-Join the [Paketo workspace](https://slack.paketo.io/) and explore the channels that are most interesting to you
+Join the [Paketo workspace](https://join.slack.com/t/paketobuildpacks/shared_invite/zt-2jayv12ro-eTP8AtcmvyIpEtlANfIb~g) and explore the channels that are most interesting to you
 
 ### Mailing list
 
