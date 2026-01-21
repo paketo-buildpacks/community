@@ -48,7 +48,7 @@ None
 ### Content Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt], [@anthonydahanne][@anthonydahanne]
+[@ForestEckhardt][@ForestEckhardt], [@anthonydahanne][@anthonydahanne], [@loewenstein][@loewenstein]
 
 ##### Emeritus Members
 [@kvedurmu][@kvedurmu], [@andymoe][@andymoe], [@fg-j][@fg-j], [@ryanmoran][@ryanmoran], [@TisVictress][@TisVictress]
@@ -109,13 +109,13 @@ None
 ### .NET Core Team
 
 #### Maintainers
-[@ForestEckhardt][@ForestEckhardt]
+[@ForestEckhardt][@ForestEckhardt], [@dmikusa][@dmikusa], [@ZephireNZ][@ZephireNZ]
 
 ##### Emeritus Members
 [@joshzarrabi][@joshzarrabi], [@fg-j][@fg-j], [@sophiewigmore][@sophiewigmore]
 
 #### Contributors
-[@arjun024][@arjun024], [@joshuatcasey][@joshuatcasey], [@ZephireNZ][@ZephireNZ]
+[@arjun024][@arjun024], [@joshuatcasey][@joshuatcasey]
 
 ##### Emeritus Members
 [@thitch97][@thitch97], [@ryanmoran][@ryanmoran], [@dwillist][@dwillist]
@@ -147,7 +147,7 @@ None
 [@thitch97][@thitch97], [@dwillist][@dwillist], [@dmikusa][@dmikusa], [@sophiewigmore][@sophiewigmore], [@arjun024][@arjun024]
 
 #### Contributors
-[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey], [@arjun024][@arjun024]
+[@ForestEckhardt][@ForestEckhardt], [@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey], [@arjun024][@arjun024], [@benjaminguttmann-avtq][@benjaminguttmann-avtq], [@ionphractal][@ionphractal]
 
 ##### Emeritus Members
 [@fg-j][@fg-j], [@ryanmoran][@ryanmoran], [@joshzarrabi][@joshzarrabi], [@TisVictress][@TisVictress]
@@ -180,7 +180,7 @@ None
 [@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore], [@robdimsdale][@robdimsdale]
 
 #### Contributors
-[@arjun024][@arjun024], [@ForestEckhardt][@ForestEckhardt]
+[@arjun024][@arjun024], [@ForestEckhardt][@ForestEckhardt], [@benjaminguttmann-avtq][@benjaminguttmann-avtq], [@ionphractal][@ionphractal]
 
 ##### Emeritus Members
 [@thitch97][@thitch97], [@joshzarrabi][@joshzarrabi], [@fg-j][@fg-j], [@genevieve][@genevieve] 
@@ -261,6 +261,7 @@ None
 [@andymoe]: https://github.com/andymoe
 [@anthonydahanne]: https://github.com/anthonydahanne
 [@arjun024]: https://github.com/arjun024
+[@benjaminguttmann-avtq]: https://github.com/benjaminguttmann-avtq
 [@brayanhenao]: https://github.com/brayanhenao
 [@c0d1ngm0nk3y]: https://github.com/c0d1ngm0nk3y
 [@dmikusa]: https://github.com/dmikusa
@@ -271,6 +272,7 @@ None
 [@fg-j]: https://github.com/fg-j
 [@ForestEckhardt]: https://github.com/ForestEckhardt
 [@genevieve]: https://github.com/genevieve
+[@ionphractal]: https://github.com/ionphractal
 [@jericop]: https://github.com/jericop
 [@joshuatcasey]: https://github.com/joshuatcasey
 [@joshzarrabi]: https://github.com/joshzarrabi
