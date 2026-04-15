@@ -32,10 +32,10 @@ None
 ### Builders Team
 
 #### Maintainers
-[@mhdawson][@mhdawson], [@jericop][@jericop]
+[@jericop][@jericop]
 
 ##### Emeritus Members
-[@ekcasey][@ekcasey], [@dumez-k][@dumez-k], [@fg-j][@fg-j], [@robdimsdale][@robdimsdale], [@ForestEckhardt][@ForestEckhardt]
+[@ekcasey][@ekcasey], [@dumez-k][@dumez-k], [@fg-j][@fg-j], [@robdimsdale][@robdimsdale], [@ForestEckhardt][@ForestEckhardt], [@mhdawson][@mhdawson]
 
 #### Contributors
 [@arjun024][@arjun024], [@sophiewigmore][@sophiewigmore]
@@ -125,10 +125,10 @@ None
 ### Node.js Team
 
 #### Maintainers
-[@mhdawson][@mhdawson], [@pacostas][@pacostas]
+[@pacostas][@pacostas]
 
 ##### Emeritus Members
-[@thitch97][@thitch97], [@TisVictress][@TisVictress], [@ryanmoran][@ryanmoran]
+[@thitch97][@thitch97], [@TisVictress][@TisVictress], [@ryanmoran][@ryanmoran], [@mhdawson][@mhdawson]
 
 #### Contributors
 [@sophiewigmore][@sophiewigmore], [@AccraZed][@AccraZed], [@arjun024][@arjun024], [@c0d1ngm0nk3y][@c0d1ngm0nk3y]
@@ -200,10 +200,10 @@ None
 ### Stacks Team
 
 #### Maintainers
-[@mhdawson][@mhdawson], [@jericop][@jericop], [@pacostas][@pacostas]
+[@jericop][@jericop], [@pacostas][@pacostas]
 
 ##### Emeritus Members
-[@brayanhenao][@brayanhenao], [@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak], [@sophiewigmore][@sophiewigmore], [@robdimsdale][@robdimsdale]
+[@brayanhenao][@brayanhenao], [@mdelillo][@mdelillo], [@dumez-k][@dumez-k], [@martyspiewak][@martyspiewak], [@sophiewigmore][@sophiewigmore], [@robdimsdale][@robdimsdale], [@mhdawson][@mhdawson]
 
 #### Contributors
 [@arjun024][@arjun024]
