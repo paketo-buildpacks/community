@@ -80,7 +80,7 @@ None
 ### Go Team
 
 #### Maintainers
-[@jericop][@jericop]
+[@jericop][@jericop], [@sgaist][@sgaist]
 
 ##### Emeritus Members
 [@ryanmoran][@ryanmoran], [@fg-j][@fg-j], [@robdimsdale][@robdimsdale], [@ForestEckhardt][@ForestEckhardt]
@@ -141,13 +141,13 @@ None
 ### PHP Team
 
 #### Maintainers
-<none>
+[@benjaminguttmann-avtq][@benjaminguttmann-avtq]
 
 ##### Emeritus Members
 [@thitch97][@thitch97], [@dwillist][@dwillist], [@dmikusa][@dmikusa], [@sophiewigmore][@sophiewigmore], [@arjun024][@arjun024]
 
 #### Contributors
-[@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey], [@arjun024][@arjun024], [@benjaminguttmann-avtq][@benjaminguttmann-avtq], [@ionphractal][@ionphractal]
+[@robdimsdale][@robdimsdale], [@joshuatcasey][@joshuatcasey], [@arjun024][@arjun024], [@ionphractal][@ionphractal]
 
 ##### Emeritus Members
 [@fg-j][@fg-j], [@ryanmoran][@ryanmoran], [@joshzarrabi][@joshzarrabi], [@TisVictress][@TisVictress], [@ForestEckhardt][@ForestEckhardt]
@@ -174,13 +174,13 @@ None
 ### Ruby Team
 
 #### Maintainers
-
+[@benjaminguttmann-avtq][@benjaminguttmann-avtq]
 
 ##### Emeritus Members
 [@ryanmoran][@ryanmoran], [@sophiewigmore][@sophiewigmore], [@robdimsdale][@robdimsdale]
 
 #### Contributors
-[@arjun024][@arjun024], [@benjaminguttmann-avtq][@benjaminguttmann-avtq], [@ionphractal][@ionphractal]
+[@arjun024][@arjun024], [@ionphractal][@ionphractal]
 
 ##### Emeritus Members
 [@thitch97][@thitch97], [@joshzarrabi][@joshzarrabi], [@fg-j][@fg-j], [@genevieve][@genevieve], [@ForestEckhardt][@ForestEckhardt]
