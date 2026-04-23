@@ -8,9 +8,12 @@ GitHub currently has, then optionally applies the changes.
 
 Usage:
     python sync.py [--apply] [--file PATH]
+    python sync.py --print
 
     --apply       Apply changes. Without this flag only a dry-run diff is shown.
     --file PATH   Use a local TEAMS.md file instead of fetching it from GitHub.
+    --print       Fetch and display the current GitHub team state. Cannot be
+                  combined with --apply or --file.
 """
 
 import argparse
@@ -300,6 +303,59 @@ def apply_diff(diff: TeamDiff) -> None:
 
 
 # ---------------------------------------------------------------------------
+# Print current state
+# ---------------------------------------------------------------------------
+
+_WIDTH = 62
+
+
+def _format_members(members: set[str]) -> str:
+    """
+    Format a set of members into a display string.
+    Regular members are listed first (sorted), followed by bot accounts
+    marked with * and ignored/alias accounts marked with ~.
+    """
+    regular = sorted(m for m in members if m not in BOT_ACCOUNTS and m not in IGNORED_ACCOUNTS)
+    bots = sorted(m for m in members if m in BOT_ACCOUNTS)
+    aliases = sorted(m for m in members if m in IGNORED_ACCOUNTS)
+
+    parts = [f"@{m}" for m in regular]
+    parts += [f"@{m}*" for m in bots]
+    parts += [f"@{m}~" for m in aliases]
+
+    return "  ".join(parts) if parts else "(none)"
+
+
+def cmd_print() -> None:
+    """Fetch and display the current GitHub team membership state."""
+    print("Fetching current team state from GitHub …\n")
+
+    print("paketo-buildpacks GitHub Teams")
+    print("═" * _WIDTH)
+    print()
+
+    sc = get_team_members("steering-committee")
+    print("Steering Committee")
+    print(f"  {_format_members(sc)}")
+    print()
+    print("═" * _WIDTH)
+    print()
+
+    for team_name, slug in TEAM_SLUG_MAP.items():
+        maintainers = get_team_members(f"{slug}-maintainers")
+        contributors = get_team_members(f"{slug}-contributors")
+
+        print(team_name)
+        print(f"  Maintainers:  {_format_members(maintainers)}")
+        print(f"  Contributors: {_format_members(contributors)}")
+        print()
+
+    print("─" * _WIDTH)
+    print("  * bot account (not managed by sync)")
+    print("  ~ alias account (not managed by sync)")
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -308,7 +364,13 @@ def main() -> None:
     parser = argparse.ArgumentParser(
         description="Sync TEAMS.md → GitHub Teams for paketo-buildpacks"
     )
-    parser.add_argument(
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument(
+        "--print",
+        action="store_true",
+        help="Fetch and display the current GitHub team state. Cannot be combined with --apply or --file.",
+    )
+    mode.add_argument(
         "--apply",
         action="store_true",
         help="Apply the computed changes. Without this flag the script is a dry run.",
@@ -319,6 +381,13 @@ def main() -> None:
         help="Path to a local TEAMS.md (default: fetch from GitHub)",
     )
     args = parser.parse_args()
+
+    if args.print and args.file:
+        parser.error("--file cannot be combined with --print")
+
+    if args.print:
+        cmd_print()
+        return
 
     # ── Load TEAMS.md ────────────────────────────────────────────────────────
     if args.file:
