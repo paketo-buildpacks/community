@@ -4,10 +4,10 @@
 
 > The Steering Committee Members are responsible for the direction of the project (roadmap), subteam leadership, the spec, and cross-cutting concerns
 
-[@dmikusa][@dmikusa], [@loewenstein][@loewenstein], [@jericop][@jericop]
+[@dmikusa][@dmikusa], [@jericop][@jericop], [@anthonydahanne][@anthonydahanne]
 
 ### Emeritus Members
-[@ekcasey][@ekcasey], [@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt]
+[@ekcasey][@ekcasey], [@ryanmoran][@ryanmoran], [@ForestEckhardt][@ForestEckhardt], [@loewenstein][@loewenstein]
 
 ## Subteams
 
