@@ -1,0 +1,39 @@
+name: TEAMS.md Sync Check
+
+on:
+  pull_request:
+    branches: [main]
+    paths: [TEAMS.md]
+
+jobs:
+  dry-run:
+    name: Dry-run sync
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run sync dry-run
+        env:
+          GH_TOKEN: ${{ secrets.ORG_SYNC_TOKEN }}
+        run: |
+          python scripts/sync.py --file TEAMS.md > sync-output.txt 2>&1
+          exit_code=$?
+          cat sync-output.txt
+          exit $exit_code
+
+      - name: Write job summary
+        if: always()
+        run: |
+          {
+            echo "## TEAMS.md Sync — Dry Run"
+            echo ""
+            echo '```'
+            cat sync-output.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
